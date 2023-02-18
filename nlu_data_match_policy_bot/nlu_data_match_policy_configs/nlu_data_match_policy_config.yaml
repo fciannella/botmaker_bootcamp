@@ -1,0 +1,14 @@
+bot: hello_world
+
+configs:
+    language: en-US
+    health_check_interval: 750
+
+policies:
+  - name: custom_command_policy
+    paths:    # Custom command tsv file paths
+      - nlu_data_match_policy_bot_custom_commands.tsv
+
+  - name: dialog_policy
+    paths:
+      - ./default.yaml

@@ -1,6 +1,6 @@
-# HelloWorld Bot
+# NLU Data Match Policy Bot
 
-This is a very basic example of a bot that uses no models and is the most basic bot that one can build.
+In this example we will explore another policy, which will allow us to exploit some basic semantic similarity features, without having to use any Deep Learning module yet.
 
 Here is how to run it:
 
