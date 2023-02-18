@@ -1,0 +1,18 @@
+# Global fallback rules for agent
+
+domain: ""
+
+fallback:
+  - action:
+      - response:
+        - text: "I don't know how to answer these type of questions yet."
+        - text: "I am not good at answering these."
+    followup:
+    - action:
+        - response:
+          - text: "I couldn't understand that as well."
+          - text: "I am not able to understand again."
+      followup:
+      - action:
+        - response:
+          - text: "Did not get that."
