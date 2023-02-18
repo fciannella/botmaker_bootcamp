@@ -9,6 +9,11 @@ policies:
     paths:    # Custom command tsv file paths
       - nlu_data_match_policy_bot_custom_commands.tsv
 
+  - name: nlu_data_match_policy
+    paths:    # Paths to Nemo-formatted NLU training data
+      - nlu_data/grocery/grocery
+      - nlu_data/smalltalk/smalltalk
+
   - name: dialog_policy
     paths:
       - ./default.yaml
