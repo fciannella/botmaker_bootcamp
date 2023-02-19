@@ -1,4 +1,4 @@
-bot: hello_world
+bot: nlu_dmp
 
 configs:
     language: en-US
@@ -7,13 +7,13 @@ configs:
 policies:
   - name: custom_command_policy
     paths:    # Custom command tsv file paths
-      - nlu_data_match_policy_bot_custom_commands.tsv
+      - nlu_dmp_bot_custom_commands.tsv
 
   - name: nlu_data_match_policy
     paths:    # Paths to Nemo-formatted NLU training data
-      - nlu_data/grocery/grocery
-      - nlu_data/smalltalk/smalltalk
+      - nlu_data/smalltalk
 
   - name: dialog_policy
     paths:
+      - smalltalk/domain_smalltalk.yaml
       - ./default.yaml

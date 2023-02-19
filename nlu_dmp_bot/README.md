@@ -22,7 +22,7 @@ git clone ssh://git@gitlab-master.nvidia.com:12051/fciannella/botmaker_bootcamp.
 Finally you can run the bot in text mode to start with:
 
 ```shell
-bash run_bot_launcher.sh -c botmaker_bootcamp/hello_world_bot/nlu_data_match_policy_bot  -m cli
+bash run_bot_launcher.sh -c botmaker_bootcamp/hello_world_bot/nlu_dmp_bot  -m cli
 ```
 
 Here is a sample of the interaction that you can have with this primitive both:
@@ -72,7 +72,7 @@ configs:
 policies:
   - name: custom_command_policy
     paths:    # Custom command tsv file paths
-      - nlu_data_match_policy_bot_custom_commands.tsv
+      - nlu_dmp_bot_custom_commands.tsv
 
   - name: dialog_policy
     paths:
