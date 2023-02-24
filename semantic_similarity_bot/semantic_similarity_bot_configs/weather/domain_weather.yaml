@@ -1,0 +1,126 @@
+domain: weather
+model_name: weather #model_name: merged for embedded
+
+anchors:
+- entailment: ["related to weather"]
+- semantic_similarity: ["how is the weather in new york"]
+
+configs:
+  confidence_threshold: 0.3
+  shortterm_memory_max_turns: 2
+  shortterm_memory_timeout: 600
+  form_max_loops: 3
+  enable_ner: riva_ner
+  need_user_response: false
+
+slots:
+
+  - name: temperatureunit
+    lookup: ['fahrenheit', 'celsius', 'centigrade']
+    synonyms:
+      celsius: ['centigrade', 'degree c']
+      fahrenheit: ['degree f']
+    default: 'fahrenheit'
+    memory: longterm
+
+  - name:  location
+    entity: [weatherplace, LOC] # To tag location by NER entity: [weatherplace, LOC]
+    memory: shortterm
+
+  - name: system.date_time
+
+  - name: wind_speed_unit
+    lookup: ['miles per hour', 'kilometers per hour']
+    default: 'miles per hour'
+    memory: longterm
+
+  - name: rainfall_unit
+    lookup: ['millimeter', 'inch']
+    default: 'millimeter'
+    memory: longterm
+
+  - name: snowfall_unit
+    lookup: ['centimeter', 'inch']
+    default: 'centimeter'
+    memory: longterm
+
+  - name: query_lookup
+    lookup: ['what about']
+
+dialogs:
+  - intent: weather.weather
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.temperature
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.snow
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.snow_yes_no
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.rainfall
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.humidity
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.humidity_yes_no
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.windspeed
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.rainfall_yes_no
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.temperature_yes_no
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.sunny
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.cloudy
+    action:
+      - response:
+        - text: "The Weather will be fine!"
+
+
+  - intent: weather.store_memory
+    action:
+      - response:
+        - text: "The Weather will be fine!"

@@ -1,0 +1,2174 @@
+sentence	label
+turn on navigation to home	0
+turn on navigation to home	0
+turn on navigation to chicago	0
+start navigation to office	0
+start navigation to santa clara	0
+activate navigation to nvidia headquarters	0
+activate navigation to intel museum	0
+enable navigation to golden gate bridge	0
+switch on navigation to stanford	0
+switch on navigation to nvidia santa clara office	0
+drive me to new york	0
+drive me to work	0
+drive to 203, lincoln avenue	0
+drive to nvidia	0
+take me to san francisco	0
+take me to 2788, san thomas express way, santa clara	0
+can you navigate to san jose	0
+can you drive me to home	0
+can you drive me to chicago	0
+can you turn on navigation to nvidia headquarters	0
+can you turn on navigation to intel museum	0
+can you take me to golden gate bridge	0
+can you take me to santa clara convention centre	0
+can you activate navigation to nvidia santa clara office	0
+can you please enable navigation to new york	0
+can you please enable navigation to work	0
+please navigate me to san francisco	0
+please take me to google	0
+please take me to facebook	0
+please enable navigation to 203, lincoln avenue	0
+please enable navigation to nvidia	0
+please drive me to london	0
+please drive me to san jose	0
+please start navigation to home	0
+please start navigation to chicago	0
+start navigation to office by car	0
+start navigation to santa clara by car	0
+activate navigation by bike to nvidia headquarters	0
+activate navigation by bike to intel museum	0
+turn on navigation to to nvidia headquarters by walking	0
+turn on navigation to to intel museum by walking	0
+guide me to golden gate bridge by foot	0
+guide me to santa clara convention centre by foot	0
+drive to stanford by car	0
+drive to nvidia santa clara office by car	0
+can you activate navigation by bike to new york	0
+can you activate navigation by bike to work	0
+can you start navigating to google by walking	0
+can you start navigating to facebook by walking	0
+can you take me to 203, lincoln avenue by foot	0
+can you take me to nvidia by foot	0
+can you turn on navigation by car to san francisco	0
+can you turn on navigation by car to 2788, san thomas express way, santa clara	0
+please switch on navigation to san jose by bike	0
+please drive me to 203, lincoln avenue by bike	0
+please drive me to nvidia by bike	0
+please start navigation by walking to home	0
+please start navigation by walking to chicago	0
+please activate navigation to san francisco by bike	0
+please activate navigation to 2788, san thomas express way, santa clara by bike	0
+chicago	0
+to office	0
+to santa clara	0
+facebook by walking	0
+london on foot	0
+san jose on foot	0
+home	0
+chicago	0
+to office	0
+to santa clara	0
+google by walking	0
+to london on foot	0
+to san jose on foot	0
+turn on navigation	1
+activate navigation	1
+start driving to it	1
+enable driving mode	1
+put on navigation mode	1
+start navigating	1
+begin navigating to it	1
+guide me to it	1
+drive me to it	1
+enable the navigation	1
+can you start navigation to it	1
+can you activate navigation	1
+can you enable navigating	1
+can you start driving	1
+please start navigation	1
+please start driving to it	1
+please enable navigation	1
+please activate navigation mode	1
+enable navigation mode by bike	1
+turn on navigation by walking	1
+please activate navigation by foot	1
+start navigating by car	1
+can you enable navigation by bike	1
+can you turn on navigation by walking	1
+please turn on navigation by walking	1
+can you start navigation by bike	1
+activate navigation by car	1
+can you begin navigation by foot	1
+turn on navigation to a coffee shop	1
+turn on navigation to a restaurant	1
+start navigation to a hotel	1
+start navigation to a movie theatre	1
+can you activate navigation to a hospital	1
+can you activate navigation to a supermarket	1
+please enable navigation to a railway station	1
+please enable navigation to a police station	1
+can you switch on navigation to a kfc	1
+can you switch on navigation to a walmart	1
+can you switch on navigation to a starbucks	1
+drive me to a macdonald's	1
+drive me to a domino's	1
+navigate to a coffee shop	1
+navigate to a restaurant	1
+drive to a hotel by car	1
+drive to a movie theatre by car	1
+take me to a hospital	1
+take me to a supermarket	1
+can you please navigate to a railway station	1
+can you please navigate to a police station	1
+can you drive me to a kfc	1
+can you drive me to a walmart	1
+can you drive me to a starbucks	1
+please take me to a macdonald's by bike	1
+please take me to a domino's by bike	1
+navigate to a coffee shop near home	1
+navigate to a coffee shop near chicago	1
+navigate to a restaurant near home	1
+navigate to a restaurant near chicago	1
+drive to a hotel near office	1
+drive to a hotel near santa clara	1
+drive to a movie theatre near office	1
+drive to a movie theatre near santa clara	1
+can you take me to a hospital near san francisco by walking	1
+can you take me to a hospital near 2788, san thomas express way, santa clara by walking	1
+can you take me to a supermarket near san francisco by walking	1
+can you take me to a supermarket near 2788, san thomas express way, santa clara by walking	1
+can you navigate me to a indian coffee shop	1
+can you navigate me to a indian restaurant	1
+can you navigate me to a chinese coffee shop	1
+please drive me to a continental coffee shop	1
+please drive me to a continental restaurant	1
+please drive me to a american coffee shop	1
+please drive me to a american restaurant	1
+can you take me to a mexican coffee shop	1
+can you take me to a mexican restaurant	1
+can you take me to a italian coffee shop	1
+can you take me to a italian restaurant	1
+navigate to a japanese restaurant by foot	1
+navigate to a greek coffee shop by foot	1
+navigate to a greek restaurant by foot	1
+enable navigation to the nearest railway station	1
+enable navigation to the nearest police station	1
+turn on navigation to the closest kfc	1
+turn on navigation to the closest walmart	1
+turn on navigation to the closest starbucks	1
+can you start navigation to the cheapest hospital	1
+can you start navigation to the cheapest supermarket	1
+navigate me to the nearest coffee shop	1
+navigate me to the nearest restaurant	1
+drive to the closest hotel	1
+drive to the closest movie theatre	1
+can you please take me to the cheapest railway station	1
+can you please take me to the cheapest police station	1
+activate navigation to a french coffee shop	1
+activate navigation to a french restaurant	1
+activate navigation to a thai coffee shop	1
+activate navigation to a thai restaurant	1
+please start navigation by car to a spanish restaurant	1
+please start navigation by car to a mediterranean coffee shop	1
+please start navigation by car to a mediterranean restaurant	1
+enable navigation to the nearest vietnamese coffee shop	1
+enable navigation to the nearest vietnamese restaurant	1
+enable navigation to the nearest european coffee shop	1
+enable navigation to the nearest european restaurant	1
+guide me to the closest indian coffee shop	1
+guide me to the closest indian restaurant	1
+guide me to the closest chinese coffee shop	1
+guide me to the closest chinese restaurant	1
+can you drive me to the cheapest continental restaurant	1
+can you drive me to the cheapest american coffee shop	1
+can you drive me to the cheapest american restaurant	1
+turn on navigation by bike to the cheapest hotel closeby	1
+turn on navigation by bike to the cheapest movie theatre closeby	1
+can you switch on navigation to the cheapest hospital nearby	1
+can you switch on navigation to the cheapest supermarket nearby	1
+drive to the cheapest railway station closeby	1
+drive to the cheapest police station closeby	1
+can you navigate to the cheapest hotel nearby by walking	1
+can you navigate to the cheapest movie theatre nearby by walking	1
+activate navigation to a good macdonald's	1
+activate navigation to a good domino's	1
+start navigating to an expensive coffee shop	1
+start navigating to an expensive restaurant	1
+navigate to a cheap hotel	1
+navigate to a cheap movie theatre	1
+can you enable navigation to a kfc nearby	1
+can you enable navigation to a walmart nearby	1
+can you enable navigation to a starbucks nearby	1
+navigate me to a macdonald's nearest	1
+navigate me to a domino's nearest	1
+please start navigation to a good coffee shop closeby	1
+please start navigation to a good restaurant closeby	1
+can you drive me to a expensive hotel nearby	1
+can you drive me to a expensive movie theatre nearby	1
+can you turn on navigation to a hospital located at home	1
+can you turn on navigation to a hospital located at chicago	1
+can you turn on navigation to a supermarket located at home	1
+can you turn on navigation to a supermarket located at chicago	1
+take me to a railway station located in office	1
+take me to a railway station located in santa clara	1
+take me to a police station located in office	1
+start navigation to a good coffee shop located at nvidia headquarters by walking	1
+start navigation to a good coffee shop located at intel museum by walking	1
+start navigation to a good restaurant located at nvidia headquarters by walking	1
+start navigation to a good restaurant located at intel museum by walking	1
+navigate to a cheap coffee shop located on golden gate bridge	1
+navigate to a cheap coffee shop located on santa clara convention centre	1
+navigate to a cheap restaurant located on golden gate bridge	1
+navigate to a cheap restaurant located on santa clara convention centre	1
+enable navigation to a kfc located closeby stanford	1
+enable navigation to a kfc located closeby nvidia santa clara office	1
+enable navigation to a walmart located closeby stanford	1
+enable navigation to a walmart located closeby nvidia santa clara office	1
+enable navigation to a starbucks located closeby stanford	1
+enable navigation to a starbucks located closeby nvidia santa clara office	1
+drive me to a macdonald's located nearby my	1
+drive me to a macdonald's located nearby mine	1
+drive me to a macdonald's located nearby me	1
+drive me to a domino's located nearby my	1
+drive me to a domino's located nearby mine	1
+drive me to a domino's located nearby me	1
+please start navigation by foot to a good hotel located closeby new york	1
+please start navigation by foot to a good hotel located closeby work	1
+please start navigation by foot to a good movie theatre located closeby new york	1
+please start navigation by foot to a good movie theatre located closeby work	1
+take me to an expensive hotel located nearby google	1
+take me to an expensive hotel located nearby facebook	1
+take me to an expensive movie theatre located nearby google	1
+take me to an expensive movie theatre located nearby facebook	1
+can you please start navigating to the nearest hospital located in 203, lincoln avenue	1
+can you please start navigating to the nearest hospital located in nvidia	1
+can you please start navigating to the nearest supermarket located in 203, lincoln avenue	1
+can you please start navigating to the nearest supermarket located in nvidia	1
+navigate to the closest railway station located at stanford	1
+navigate to the closest railway station located at nvidia santa clara office	1
+navigate to the closest police station located at stanford	1
+navigate to the closest police station located at nvidia santa clara office	1
+coffee shop	1
+restaurant	1
+coffee shop by car	1
+restaurant by car	1
+to hotel	1
+to movie theatre	1
+to hotel by bike	1
+to movie theatre by bike	1
+to a good hotel	1
+to a good movie theatre	1
+to a good hotel by walking	1
+to a good movie theatre by walking	1
+mexican coffee shop	1
+mexican restaurant	1
+italian coffee shop	1
+italian restaurant	1
+mexican coffee shop by foot	1
+mexican restaurant by foot	1
+italian coffee shop by foot	1
+italian restaurant by foot	1
+to japanese coffee shop	1
+to japanese restaurant	1
+to greek coffee shop	1
+to greek restaurant	1
+to a expensive french coffee shop	1
+to a expensive french restaurant	1
+to a expensive thai coffee shop	1
+to a expensive thai restaurant	1
+to a hospital closeby	1
+to a supermarket closeby	1
+a cheap hospital	1
+a cheap supermarket	1
+a railway station closeby	1
+a police station closeby	1
+the cheapest coffee shop	1
+the cheapest restaurant	1
+the cheapest coffee shop closeby	1
+the cheapest restaurant closeby	1
+the cheapest coffee shop closeby by car	1
+the cheapest restaurant closeby by car	1
+to a nearby kfc	1
+to a nearby walmart	1
+to a nearby starbucks	1
+closeby macdonald's	1
+closeby domino's	1
+spanish coffee shop near london	1
+spanish coffee shop near san jose	1
+spanish restaurant near london	1
+spanish restaurant near san jose	1
+mediterranean coffee shop near london	1
+mediterranean coffee shop near san jose	1
+mediterranean restaurant near london	1
+mediterranean restaurant near san jose	1
+coffee shop	1
+restaurant	1
+coffee shop by car	1
+restaurant by car	1
+to hotel	1
+to movie theatre	1
+to hotel by bike	1
+to movie theatre by bike	1
+to a good hotel	1
+to a good movie theatre	1
+to a good hotel by walking	1
+to a good movie theatre by walking	1
+mexican coffee shop	1
+mexican restaurant	1
+italian coffee shop	1
+italian restaurant	1
+mexican coffee shop by foot	1
+mexican restaurant by foot	1
+italian coffee shop by foot	1
+italian restaurant by foot	1
+to japanese coffee shop	1
+to japanese restaurant	1
+to greek restaurant	1
+to a expensive french coffee shop	1
+to a expensive french restaurant	1
+to a expensive thai coffee shop	1
+to a expensive thai restaurant	1
+to a supermarket closeby	1
+a cheap hospital	1
+a cheap supermarket	1
+a railway station closeby	1
+a police station closeby	1
+the cheapest coffee shop	1
+the cheapest restaurant	1
+the cheapest coffee shop closeby	1
+the cheapest restaurant closeby	1
+the cheapest coffee shop closeby by car	1
+the cheapest restaurant closeby by car	1
+to a nearby kfc	1
+to a nearby walmart	1
+to a nearby starbucks	1
+closeby macdonald's	1
+closeby domino's	1
+spanish coffee shop near london	1
+spanish coffee shop near san jose	1
+spanish restaurant near london	1
+spanish restaurant near san jose	1
+mediterranean coffee shop near london	1
+mediterranean coffee shop near san jose	1
+mediterranean restaurant near london	1
+mediterranean restaurant near san jose	1
+navigate to stanford while stopping at a coffee shop	2
+navigate to stanford while stopping at a restaurant	2
+navigate to nvidia santa clara office while stopping at a coffee shop	2
+navigate to nvidia santa clara office while stopping at a restaurant	2
+drive me to new york with a stop at a hotel	2
+drive me to new york with a stop at a movie theatre	2
+drive me to work with a stop at a hotel	2
+drive me to work with a stop at a movie theatre	2
+can you take me to google and stop at a hospital on the way	2
+can you take me to facebook and stop at a hospital on the way	2
+can you take me to facebook and stop at a supermarket on the way	2
+please take me to nvidia with a detour to railway station	2
+please take me to nvidia with a detour to police station	2
+start navigating to san francisco stop at kfc in between	2
+start navigating to san francisco stop at walmart in between	2
+start navigating to san francisco stop at starbucks in between	2
+start navigating to 2788, san thomas express way, santa clara stop at kfc in between	2
+activate navigation to london with a stop at macdonald's	2
+activate navigation to san jose with a stop at macdonald's	2
+take a detour to macdonald's	2
+take a detour to domino's	2
+stop at kfc on the way	2
+stop at walmart on the way	2
+can you stop at a hospital	2
+can you stop at a supermarket	2
+make an intermediate stop	2
+a coffee shop	2
+a restaurant	2
+at a kfc	2
+at a walmart	2
+at a starbucks	2
+leave it, i will visit later	3
+i'll go there later	3
+not now, maybe some other time	3
+don't take me there now	3
+leave it, i will check it out at a later time	3
+i will check it out later	3
+don't make any stops	3
+no don't stop now	3
+no will check it out later	3
+end navigating	4
+disable the navigation	4
+turn off navigation mode	4
+can you stop navigation	4
+cancel current navigation	4
+stop the navigation	4
+quit navigation	4
+please end the navigation	4
+please turn off navigation	4
+please stop current navigation	4
+please cancel navigation	4
+can you disable navigation	4
+can you deacticate current navigation	4
+can you switch off navigation	4
+can you stop navigation	4
+turn off navigation to home	4
+disable navigation to office	4
+disable navigation to santa clara	4
+stop navigating to golden gate bridge	4
+stop navigating to santa clara convention centre	4
+stop navigation to work	4
+switch off navigation to stanford	4
+switch off navigation to nvidia santa clara office	4
+deactivate navigation to san francisco	4
+deactivate navigation to 2788, san thomas express way, santa clara	4
+cancel the navigation to google	4
+cancel the navigation to facebook	4
+end navigation to 203, lincoln avenue	4
+end navigation to nvidia	4
+please disable navigation to london	4
+please disable navigation to san jose	4
+please switch off navigation to home	4
+please switch off navigation to chicago	4
+please cancel the navigation to office	4
+please cancel the navigation to santa clara	4
+please deactivate navigation to nvidia headquarters	4
+please deactivate navigation to intel museum	4
+can you end navigation to golden gate bridge	4
+can you end navigation to santa clara convention centre	4
+can you stop navigation to stanford	4
+can you stop navigation to nvidia santa clara office	4
+can you quit navigation to work	4
+can you turn off navigation to nvidia headquarters	4
+can you turn off navigation to intel museum	4
+turn off navigation to restaurant	4
+stop navigating to railway station	4
+stop navigating to police station	4
+stop navigation to macdonald's	4
+stop navigation to domino's	4
+switch off navigation to kfc	4
+switch off navigation to walmart	4
+switch off navigation to starbucks	4
+deactivate navigation to supermarket	4
+cancel the navigation to coffee shop	4
+cancel the navigation to restaurant	4
+end navigation to hotel	4
+end navigation to movie theatre	4
+please disable navigation to hospital	4
+please switch off navigation to railway station	4
+please switch off navigation to police station	4
+please cancel the navigation to kfc	4
+please cancel the navigation to walmart	4
+please cancel the navigation to starbucks	4
+please deactivate navigation to macdonald's	4
+please deactivate navigation to domino's	4
+can you end navigation to coffee shop	4
+can you end navigation to restaurant	4
+can you stop navigation to hotel	4
+can you stop navigation to movie theatre	4
+can you quit navigation to hospital	4
+can you quit navigation to supermarket	4
+can you turn off navigation to railway station	4
+can you turn off navigation to police station	4
+avoid highways on the route	5
+can you navigate by avoiding highways	5
+navigate without highways	5
+turn on navigation and avoid highways	5
+activate navigation while avoiding highways	5
+start driving and avoid highways	5
+enable driving mode and avoid highways	5
+put on navigation mode and avoid highways	5
+start navigating and avoid highways	5
+begin navigating to it while avoiding highways	5
+guide me to it by avoiding highways	5
+drive me to it without highways	5
+enable the navigation and avoid highways	5
+turn on navigation mode without highways	5
+can you start navigation to it by avoiding highways	5
+can you start driving without highways	5
+please start navigation avoid highways	5
+please avoid highways and start driving to it	5
+please enable navigation while avoiding highways	5
+please activate navigation mode and avoid highways	5
+turn on navigation by walking and avoid highways	5
+please activate navigation by foot without highways	5
+start navigating by car and avoid highways	5
+can you enable navigation by bike without highways	5
+can you turn on navigation by walking by avoiding highways	5
+can you please switch on navigation by foot and avoid highways	5
+please turn on navigation by walking without highways	5
+can you avoid highways and start navigation by bike	5
+activate navigation by car and avoid highways	5
+can you begin navigation by foot without highways	5
+avoid highways on the route to home	5
+avoid highways on the route to chicago	5
+avoid highways and navigate to office	5
+avoid highways and navigate to santa clara	5
+avoid highways on the way to nvidia headquarters	5
+avoid highways on the way to intel museum	5
+drive me to golden gate bridge by avoiding highways	5
+navigate by avoiding highways to nvidia santa clara office	5
+navigate by bike and avoid highways to 203, lincoln avenue	5
+navigate by bike and avoid highways to nvidia	5
+please navigate without highways to new york	5
+please navigate without highways to work	5
+take me to san francisco and avoid highways	5
+take me to 2788, san thomas express way, santa clara and avoid highways	5
+avoid highways and navigate to golden gate bridge by car	5
+avoid highways and navigate to santa clara convention centre by car	5
+drive me to google by bike and avoid highways	5
+drive me to facebook by bike and avoid highways	5
+can you please avoid highways and navigate to london	5
+can you drive me to home while avoiding highways	5
+can you drive me to chicago while avoiding highways	5
+please take me to office by avodiing highways	5
+please take me to santa clara by avodiing highways	5
+avoid highways and start navigation to new york by car	5
+avoid highways and start navigation to work by car	5
+can you turn on navigation to nvidia headquarters while avoiding highways	5
+switch on navigation to stanford and avoid highways	5
+switch on navigation to nvidia santa clara office and avoid highways	5
+avoid highways and drive me to 203, lincoln avenue by bike	5
+avoid highways and drive me to nvidia by bike	5
+start navigation by walking to nvidia headquarters while avoiding highways	5
+start navigation by walking to intel museum while avoiding highways	5
+can you activate navigation by bike and avoiding highways to golden gate bridge	5
+can you activate navigation by bike and avoiding highways to santa clara convention centre	5
+please avoid highways while navigating me to san francisco	5
+please avoid highways while navigating me to 2788, san thomas express way, santa clara	5
+avoid highways and activate navigation to san francisco by bike	5
+avoid highways and activate navigation to 2788, san thomas express way, santa clara by bike	5
+google	5
+facebook	5
+to 203, lincoln avenue	5
+to nvidia	5
+google by walking	5
+facebook by walking	5
+to san jose on foot	5
+list tolls on the route	6
+are there any tolls on the way	6
+is there any toll on the road	6
+find me tolls on the road	6
+locate the tolls on the path	6
+show the nearest toll	6
+display list of tolls on the way	6
+please show me tolls on the route	6
+please display tolls on the way	6
+please find the tolls on the road	6
+please find me the nearest toll	6
+can you show me tolls on the way	6
+can you tell me where the nearest toll is	6
+can you list tolls on the way	6
+are there any tolls on the way to home	6
+are there any tolls on the way to chicago	6
+list tolls on the way to office	6
+list tolls on the way to santa clara	6
+please show me tolls on route to nvidia headquarters	6
+can you display tolls on the way to nvidia santa clara office	6
+where is the closest toll on route to golden gate bridge	6
+where is the closest toll on route to santa clara convention centre	6
+can you find me nearest toll on route to new york	6
+can you find me nearest toll on route to work	6
+find me tolls on the road to nvidia	6
+is there any tolls on the route to san francisco from santa clara	6
+is there any tolls on the route to 2788, san thomas express way, santa clara from office	6
+is there any tolls on the route to 2788, san thomas express way, santa clara from santa clara	6
+is there any toll on the road from home to san jose	6
+is there any toll on the road from work to london	6
+is there any toll on the road from work to san jose	6
+are there any tolls from office to new york	6
+are there any tolls from office to work	6
+are there any tolls from santa clara to new york	6
+are there any tolls from santa clara to work	6
+can you show me the tolls on the route from nvidia headquarters to google	6
+can you show me the tolls on the route from nvidia headquarters to facebook	6
+can you show me the tolls on the route from intel museum to google	6
+can you show me the tolls on the route from intel museum to facebook	6
+locate the tolls on the road to new york from golden gate bridge	6
+locate the tolls on the road to new york from santa clara convention centre	6
+locate the tolls on the road to work from golden gate bridge	6
+locate the tolls on the road to work from santa clara convention centre	6
+please show me tolls on the way from san francisco to office	6
+please show me tolls on the way from san francisco to santa clara	6
+please show me tolls on the way from london to office	6
+please show me tolls on the way from london to santa clara	6
+list tolls on route from nvidia headquarters to san francisco	6
+list tolls on route from intel museum to 2788, san thomas express way, santa clara	6
+stanford	6
+nvidia santa clara office	6
+to golden gate bridge	6
+to santa clara convention centre	6
+on the route to nvidia headquarters	6
+get me the speed limit on the route	7
+find me the speed limit	7
+what is the speed limit	7
+tell the speed limit	7
+can you find the speed limit	7
+can you tell what the speed limit is	7
+please show the speed limit	7
+please display the speed limit	7
+please find me the speed limit	7
+what is the speed limit in kilometers per hour	7
+what is the speed limit on the road in miles per hour	7
+show the speed limit in meters per second	7
+can you display speed limit in kilometers per hour	7
+can you tell me the speed limit in miles per hour	7
+please find speed limit in meters per second	7
+please get the speed limit in kilometers per hour	7
+what is the speed limit between home and london	7
+what is the speed limit between home and san jose	7
+what is the speed limit between work and london	7
+what is the speed limit between work and san jose	7
+find me the speed limit on the way to san francisco	7
+find me the speed limit on the way to 2788, san thomas express way, santa clara	7
+show me the speed limit on the route to 203, lincoln avenue from office	7
+show me the speed limit on the route to 203, lincoln avenue from santa clara	7
+show me the speed limit on the route to nvidia from office	7
+show me the speed limit on the route to nvidia from santa clara	7
+tell me the speed limit on the way to new york from nvidia headquarters	7
+tell me the speed limit on the way to new york from intel museum	7
+tell me the speed limit on the way to work from nvidia headquarters	7
+what is the speed limit between golden gate bridge and stanford in meters per second	7
+what is the speed limit between golden gate bridge and nvidia santa clara office in meters per second	7
+what is the speed limit between santa clara convention centre and nvidia santa clara office in meters per second	7
+find me the speed limit on the route to home in kilometers per hour	7
+find me the speed limit on the route to chicago in kilometers per hour	7
+tell me the speed limit in miles per hour to office	7
+tell me the speed limit in miles per hour to santa clara	7
+get me the speed limit to new york from office in meters per second	7
+get me the speed limit to new york from santa clara in meters per second	7
+get me the speed limit to work from office in meters per second	7
+can you show the speed limit from from nvidia headquarters to google in kilometers per hour	7
+can you show the speed limit from from intel museum to google in kilometers per hour	7
+can you show the speed limit from from intel museum to facebook in kilometers per hour	7
+stanford	7
+nvidia santa clara office	7
+office in in kilometers per hour	7
+santa clara in in kilometers per hour	7
+to golden gate bridge	7
+on the way to nvidia headquarters	7
+on the way to intel museum	7
+nvidia in miles per hour	7
+in meters per second to san francisco	7
+in meters per second to 2788, san thomas express way, santa clara	7
+what is the distance from home to london	8
+what is the distance from home to san jose	8
+what is the distance from work to london	8
+how much is the distance from office to san francisco in meters	8
+how much is the distance from office to 2788, san thomas express way, santa clara in meters	8
+how much is the distance from santa clara to san francisco in meters	8
+how much is the distance from santa clara to 2788, san thomas express way, santa clara in meters	8
+what is the distance from nvidia headquarters to 203, lincoln avenue by car	8
+what is the distance from nvidia headquarters to nvidia by car	8
+what is the distance from intel museum to 203, lincoln avenue by car	8
+what is the distance from intel museum to nvidia by car	8
+what is the distance to google	8
+what is the distance to facebook	8
+how much is the distance to home in kilometers	8
+how much is the distance to chicago in kilometers	8
+how far is new york by bike	8
+how far is work by bike	8
+how much distance is it to stanford in miles	8
+can you show me the distance to golden gate bridge	8
+can you show me the distance to santa clara convention centre	8
+find me the distance to nvidia headquarters from golden gate bridge	8
+find me the distance to nvidia headquarters from santa clara convention centre	8
+find me the distance to intel museum from santa clara convention centre	8
+show the distance to santa clara in meters	8
+get me the distance to home from stanford in kilometers	8
+get me the distance to home from nvidia santa clara office in kilometers	8
+get me the distance to chicago from stanford in kilometers	8
+tell me the distance to home on foot	8
+tell me the distance to chicago on foot	8
+home	8
+chicago	8
+to santa clara	8
+distance to nvidia headquarters	8
+distance to intel museum	8
+home in meters	8
+chicago in meters	8
+to office in kilometers	8
+to santa clara in kilometers	8
+distance to intel museum in miles	8
+home	8
+chicago	8
+to office	8
+to santa clara	8
+distance to nvidia headquarters	8
+home in meters	8
+chicago in meters	8
+to office in kilometers	8
+distance to intel museum in miles	8
+what is the distance	9
+can you get me the distance	9
+how far is the distance to it	9
+tell me the distance to it	9
+find me the distance	9
+show the distance	9
+can you find the distance	9
+can you show me the distance	9
+can you tell me the distance to it	9
+please find the distance	9
+please show me the distance to it	9
+please get the distance to it	9
+find me the distance in meters	9
+can you show the distance in kilometers	9
+how far is it in miles	9
+what is the distance in meters	9
+please find the distance in kilometers	9
+can you please tell the distance in miles	9
+what is the distance to a coffee shop	9
+what is the distance to a restaurant	9
+how far is the distance to a hotel	9
+how far is the distance to a movie theatre	9
+how much is the distance to the nearest hospital	9
+how much is the distance to the nearest supermarket	9
+how far is the closest railway station	9
+how far is the closest police station	9
+what is the distance to kfc in meters	9
+what is the distance to walmart in meters	9
+how much is the distance to the cheapest coffee shop in kilometers	9
+how much is the distance to the cheapest restaurant in kilometers	9
+how far is the distance to a macdonald's by car	9
+how far is the distance to a domino's by car	9
+what is the distance to a chinese coffee shop	9
+what is the distance to a chinese restaurant	9
+how far is the nearest continental coffee shop	9
+how far is the nearest continental restaurant	9
+how far is the nearest american coffee shop	9
+how far is the nearest american restaurant	9
+how far is a mexican coffee shop in miles	9
+how far is a mexican restaurant in miles	9
+how far is a italian coffee shop in miles	9
+how far is a italian restaurant in miles	9
+what is the distance to the closest japanese coffee shop in meters	9
+what is the distance to the closest japanese restaurant in meters	9
+what is the distance to the closest greek coffee shop in meters	9
+what is the distance to the closest greek restaurant in meters	9
+how much is the distance to a french coffee shop by bike	9
+how much is the distance to a french restaurant by bike	9
+how much is the distance to a thai coffee shop by bike	9
+how much is the distance to a thai restaurant by bike	9
+how far is the distance to the nearest hotel by walking	9
+how far is the distance to the nearest movie theatre by walking	9
+how far is a hospital	9
+how far is a supermarket	9
+how far is a good hotel	9
+tell me the distance to spanish restaurant	9
+tell me the distance to mediterranean coffee shop	9
+tell me the distance to mediterranean restaurant	9
+can you find me the distance to the cheap vietnamese coffee shop	9
+can you find me the distance to the cheap european coffee shop	9
+can you find me the distance to the cheap european restaurant	9
+get me the distance to indian coffee shop in kilometers	9
+get me the distance to indian restaurant in kilometers	9
+get me the distance to chinese coffee shop in kilometers	9
+get me the distance to chinese restaurant in kilometers	9
+please show me the distance to the nearest continental coffee shop in miles	9
+please show me the distance to the nearest continental restaurant in miles	9
+please show me the distance to the nearest american coffee shop in miles	9
+please show me the distance to the nearest american restaurant in miles	9
+can you show the distance to mexican coffee shop on foot	9
+can you show the distance to mexican restaurant on foot	9
+can you show the distance to italian coffee shop on foot	9
+can you show the distance to italian restaurant on foot	9
+find me the distance to the cheapest mexican coffee shop by car	9
+find me the distance to the cheapest mexican restaurant by car	9
+find me the distance to the cheapest italian coffee shop by car	9
+find me the distance to the cheapest italian restaurant by car	9
+show the distance to a good hotel	9
+show the distance to a good movie theatre	9
+find the distance to a expensive hospital closeby	9
+find the distance to a expensive supermarket closeby	9
+can you please tell the distance to a cheap railway station in miles	9
+can you please tell the distance to a cheap police station in miles	9
+please show the distance to a good kfc closeby in meters	9
+please show the distance to a good walmart closeby in meters	9
+please show the distance to a good starbucks closeby in meters	9
+tell me the distance to a expensive coffee shop by bike	9
+tell me the distance to a expensive restaurant by bike	9
+can you find the distance to a cheap hotel nearby	9
+can you find the distance to a cheap movie theatre nearby	9
+macdonald's	9
+domino's	9
+to railway station	9
+to police station	9
+to a kfc closeby	9
+to a walmart closeby	9
+to a starbucks closeby	9
+japanese coffee shop in meters	9
+japanese restaurant in meters	9
+greek coffee shop in meters	9
+greek restaurant in meters	9
+to french coffee shop	9
+to french restaurant	9
+to thai coffee shop	9
+to thai restaurant	9
+to a expensive spanish coffee shop	9
+to a expensive spanish restaurant	9
+to a expensive mediterranean coffee shop	9
+to a expensive mediterranean restaurant	9
+to a vietnamese coffee shop nearby	9
+to a vietnamese restaurant nearby	9
+to a european coffee shop nearby	9
+to a european restaurant nearby	9
+a cheap hospital in kilometers	9
+a cheap supermarket in kilometers	9
+a railway station closeby	9
+a police station closeby	9
+the closest coffee shop in meters	9
+the closest restaurant in meters	9
+the cheapest hotel nearby	9
+the cheapest movie theatre nearby	9
+to a closeby kfc in miles	9
+to a closeby walmart in miles	9
+to a closeby starbucks in miles	9
+nearby macdonald's	9
+nearby domino's	9
+macdonald's	9
+domino's	9
+to railway station	9
+to police station	9
+to a good hotel	9
+to a good movie theatre	9
+to a kfc closeby	9
+to a walmart closeby	9
+to a starbucks closeby	9
+japanese coffee shop in meters	9
+japanese restaurant in meters	9
+greek coffee shop in meters	9
+greek restaurant in meters	9
+to french coffee shop	9
+to french restaurant	9
+to thai coffee shop	9
+to thai restaurant	9
+to a expensive spanish coffee shop	9
+to a expensive spanish restaurant	9
+to a expensive mediterranean restaurant	9
+to a vietnamese coffee shop nearby	9
+to a vietnamese restaurant nearby	9
+to a european coffee shop nearby	9
+to a european restaurant nearby	9
+a cheap hospital in kilometers	9
+a cheap supermarket in kilometers	9
+a railway station closeby	9
+a police station closeby	9
+the closest coffee shop in meters	9
+the closest restaurant in meters	9
+the cheapest hotel nearby	9
+the cheapest movie theatre nearby	9
+to a closeby kfc in miles	9
+to a closeby walmart in miles	9
+to a closeby starbucks in miles	9
+nearby macdonald's	9
+nearby domino's	9
+what is the traveling time to london	10
+what is the traveling time to san jose	10
+how much is the traveling time from work to san francisco	10
+how much is the traveling time from work to 2788, san thomas express way, santa clara	10
+what is the traveling time from 203, lincoln avenue to 203, lincoln avenue by car	10
+what is the traveling time from 203, lincoln avenue to nvidia by car	10
+what is the traveling time from 2788, san thomas express way, santa clara to 203, lincoln avenue by car	10
+what is the traveling time from 2788, san thomas express way, santa clara to nvidia by car	10
+how long does it take to reach facebook	10
+how long will it take to reach new york from nvidia headquarters	10
+how long will it take to reach new york from intel museum	10
+how long will it take to reach work from nvidia headquarters	10
+how long will it take to reach work from intel museum	10
+how much time does it take to reach stanford by bike	10
+how much time does it take to reach nvidia santa clara office by bike	10
+how long does it take to reach golden gate bridge from golden gate bridge by walking	10
+how long does it take to reach golden gate bridge from santa clara convention centre by walking	10
+how long does it take to reach santa clara convention centre from golden gate bridge by walking	10
+how long does it take to reach santa clara convention centre from santa clara convention centre by walking	10
+how much time it will take to reach nvidia headquarters	10
+how much time it will take to reach intel museum	10
+how much time is left to reach office by bike	10
+how much time is left to reach santa clara by bike	10
+find me the time to reach san francisco from stanford	10
+find me the time to reach san francisco from nvidia santa clara office	10
+find me the time to reach 2788, san thomas express way, santa clara from stanford	10
+show the time to reach home by car	10
+show the time to reach chicago by car	10
+can you please tell the time to reach office from new york on foot	10
+can you please tell the time to reach office from nvidia on foot	10
+can you please tell the time to reach santa clara from new york on foot	10
+can you please tell the time to reach santa clara from nvidia on foot	10
+can you show the traveling time to nvidia headquarters	10
+can you show the traveling time to intel museum	10
+please tell me the traveling time to golden gate bridge	10
+please tell me the traveling time to santa clara convention centre	10
+what is the travling time to stanford from 203, lincoln avenue	10
+what is the travling time to nvidia santa clara office from 203, lincoln avenue	10
+what is the travling time to nvidia santa clara office from 2788, san thomas express way, santa clara	10
+can you show the traveling time from san francisco from new york	10
+can you show the traveling time from san francisco from work	10
+can you show the traveling time from london from new york	10
+can you show the traveling time from london from work	10
+nvidia headquarters	10
+intel museum	10
+to golden gate bridge	10
+to santa clara convention centre	10
+time to stanford	10
+time to google by car	10
+time to facebook by car	10
+to golden gate bridge by bike	10
+to santa clara convention centre by bike	10
+nvidia headquarters	10
+to golden gate bridge	10
+to santa clara convention centre	10
+time to stanford	10
+time to reach new york	10
+time to reach work	10
+time to google by car	10
+time to facebook by car	10
+to golden gate bridge by bike	10
+to santa clara convention centre by bike	10
+how much is the traveling time	11
+how far is the traveling time	11
+find the traveling time	11
+can you show the travel time	11
+can you find me the traveling time	11
+can you get the traveling time	11
+please show the traveling time	11
+please find the travel time	11
+please show me the traveling time	11
+how much time will it take to reach	11
+how long does it take to reach	11
+how much time is left to reach it	11
+how long will it take to reach by bike	11
+what is traveling time by car	11
+how much time will it take to reach by walking	11
+how far is the traveling time on foot	11
+find the traveling time by car	11
+can you show the traveling time by bike	11
+please get the traveling time by walking	11
+please display the travel time by foot	11
+what is the traveling time to a hospital	11
+what is the traveling time to a supermarket	11
+how long is the traveling time to a railway station closeby	11
+how long is the traveling time to a police station closeby	11
+how far is the traveling time to a indian coffee shop	11
+how far is the traveling time to a indian restaurant	11
+how far is the traveling time to a chinese restaurant	11
+what is the traveling time to a continental coffee shop nearby	11
+what is the traveling time to a continental restaurant nearby	11
+what is the traveling time to a american coffee shop nearby	11
+what is the traveling time to a american restaurant nearby	11
+how much is the traveling time to a good hotel	11
+how much is the traveling time to a good movie theatre	11
+what is the traveling time to the [$poisortcriteria_06] coffee shop	11
+what is the traveling time to the [$poisortcriteria_06] restaurant	11
+how long is the traveling time to a closeby kfc nearby	11
+how long is the traveling time to a closeby walmart nearby	11
+how far is the traveling time to a macdonald's by car	11
+how far is the traveling time to a domino's by car	11
+what is the traveling time to a expensive hospital by bike	11
+what is the traveling time to a expensive supermarket by bike	11
+how much is the traveling time to the cheapest hotel by walking	11
+how much is the traveling time to the cheapest movie theatre by walking	11
+how long does it take to reach a railway station	11
+how long does it take to reach a police station	11
+how long does it take to reach a kfc closeby	11
+how long does it take to reach a walmart closeby	11
+how long does it take to reach a starbucks closeby	11
+how long does it take to reach a cheap coffee shop by foot	11
+how long does it take to reach a cheap restaurant by foot	11
+how long does it take to reach a nearby hospital by car	11
+how long does it take to reach a nearby supermarket by car	11
+how much time it will take to reach a railway station	11
+how much time it will take to reach a police station	11
+how much time it will take to reach a kfc nearby	11
+how much time it will take to reach a walmart nearby	11
+how much time it will take to reach a starbucks nearby	11
+how much time is left to reach a expensive movie theatre closeby	11
+how much time will it take to reach the cheapest macdonald's nearby	11
+how much time will it take to reach the cheapest domino's nearby	11
+how long it will take to reach the cheapest coffee shop	11
+how long it will take to reach the cheapest restaurant	11
+how much time it will take on foot to reach a supermarket closeby	11
+how much time is left to reach a good coffee shop by car	11
+how much time is left to reach a good restaurant by car	11
+how much time is left to reach the railway station	11
+how much time is left to reach the police station	11
+find me the time to reach a kfc	11
+find me the time to reach a walmart	11
+find me the time to reach a starbucks	11
+show the time to reach a expensive hotel	11
+show the time to reach a expensive movie theatre	11
+can you show me the time to reach a cheap hospital closeby	11
+can you show me the time to reach a cheap supermarket closeby	11
+tell me the time to reach a hotel by bike	11
+tell me the time to reach a movie theatre by bike	11
+find the time to reach a expensive coffee shop by walking	11
+find the time to reach a expensive restaurant by walking	11
+please show me the time to reach the cheapest hotel	11
+please show me the time to reach the cheapest movie theatre	11
+can you please find me the time to reach the cheapest hospital nearby	11
+railway station	11
+police station	11
+to kfc	11
+to walmart	11
+to starbucks	11
+to a good hospital	11
+to a good supermarket	11
+to a macdonald's expensive	11
+to a domino's expensive	11
+a expensive hotel	11
+a expensive movie theatre	11
+a coffee shop closeby by car	11
+a restaurant closeby by car	11
+the cheapest coffee shop	11
+the cheapest restaurant	11
+the cheapest hotel nearby	11
+the cheapest movie theatre nearby	11
+to a closeby hospital by bike	11
+nearby railway station	11
+nearby macdonald's by walking	11
+nearby domino's by walking	11
+railway station	11
+police station	11
+to kfc	11
+to walmart	11
+to starbucks	11
+to a good hospital	11
+to a good supermarket	11
+to a macdonald's expensive	11
+to a domino's expensive	11
+a expensive hotel	11
+a expensive movie theatre	11
+a coffee shop closeby by car	11
+a restaurant closeby by car	11
+the cheapest coffee shop	11
+the cheapest restaurant	11
+the cheapest hotel nearby	11
+the cheapest movie theatre nearby	11
+to a closeby hospital by bike	11
+to a closeby supermarket by bike	11
+nearby railway station	11
+nearby police station	11
+nearby macdonald's by walking	11
+nearby domino's by walking	11
+how long will it add to my commute	12
+tell me how much time it will add	12
+find the amount of time that will be added to commute	12
+can you tell you me how long it will add to my commute	12
+please tell me how much time it will add	12
+please find how much time will be added	12
+how much additional time will it take to go to a coffee shop on the way	12
+how much additional time will it take to go to a restaurant on the way	12
+tell me how much time will be added to go to a hotel	12
+how much extra time will it take to stop at a supermarket	12
+find the amount of time that will be added to make a stop at a railway station	12
+how much time will be added to go to a kfc on the road	12
+how much time will be added to go to a walmart on the road	12
+how much time will be added to go to a starbucks on the road	12
+how much extra time will it add to go to a macdonald's	12
+can you show how much time will be added to go to a coffee shop	12
+can you show how much time will be added to go to a restaurant	12
+please find how much additional time will be taken to go to a movie theatre	12
+please tell me the amount of time added to commute to go to a starbucks	12
+when is the estimated arrival time	13
+show me at what time i will reach	13
+at what time will i arrive	13
+can you show the estimated arrival time	13
+can you display eta	13
+please find the estimated arrival time	13
+please show eta	13
+please tell me when will i get there	13
+please get arrival time	13
+when will i reach destination	13
+get the estimated arrival time	13
+when will i reach	13
+what is the eta	13
+at what time will i reach by bike	13
+show time when i will reach by walking	13
+when will i reach on foot	13
+what is the estimated arrival time to reach chicago	13
+at what time will i reach office	13
+at what time will i reach santa clara	13
+tell me at what time i will reach nvidia headquarters	13
+tell me at what time i will reach intel museum	13
+when will i reach london from home	13
+when will i reach london from work	13
+when will i reach san jose from home	13
+when will i reach san jose from work	13
+can you tell me the estimated arrival time to get to san francisco	13
+can you tell me the estimated arrival time to get to 2788, san thomas express way, santa clara	13
+what is the expected time to get from office to nvidia	13
+what is the expected time to get from santa clara to nvidia	13
+how far is the estimated time to reach google	13
+how far is the estimated time to reach facebook	13
+when will i get to stanford by car	13
+when will i get to nvidia santa clara office by car	13
+how far is the estimated arrival time to 203, lincoln avenue	13
+how far is the estimated arrival time to nvidia	13
+what time will i arrive at golden gate bridge from 203, lincoln avenue by bike	13
+what time will i arrive at santa clara convention centre from 203, lincoln avenue by bike	13
+when can i expect to reach new york	13
+when can i expect to reach work	13
+what is the eta to reach golden gate bridge	13
+what is the eta to reach santa clara convention centre	13
+what is the eta to reach stanford from nvidia headquarters	13
+what is the eta to reach nvidia santa clara office from nvidia headquarters	13
+what is the eta to reach nvidia santa clara office from intel museum	13
+what is the eta by walking from golden gate bridge to google	13
+what is the eta by walking from golden gate bridge to facebook	13
+what is the eta by walking from santa clara convention centre to google	13
+what is the eta by walking from santa clara convention centre to facebook	13
+intel museum	13
+to golden gate bridge	13
+google by car	13
+facebook by car	13
+to golden gate bridge by bike	13
+to santa clara convention centre by bike	13
+show me the directions to london	14
+show me the directions to san jose	14
+find the route to san francisco	14
+find the route to 2788, san thomas express way, santa clara	14
+display directions to 203, lincoln avenue	14
+display directions to nvidia	14
+can you show the directions to google	14
+can you show the directions to facebook	14
+can you find me the route to new york	14
+can you find me the route to work	14
+please get the directions to stanford	14
+please get the directions to nvidia santa clara office	14
+please display the way to golden gate bridge	14
+please display the way to santa clara convention centre	14
+find me the path to office from san jose	14
+find me the path to santa clara from san jose	14
+find me the path to santa clara from chicago	14
+get directions to nvidia headquarters from san francisco	14
+get directions to nvidia headquarters from london	14
+get directions to intel museum from san francisco	14
+get directions to intel museum from london	14
+can you show route to golden gate bridge from 203, lincoln avenue	14
+can you show route to golden gate bridge from 2788, san thomas express way, santa clara	14
+can you show route to santa clara convention centre from 203, lincoln avenue	14
+can you show route to santa clara convention centre from 2788, san thomas express way, santa clara	14
+can you get me directions to stanford from google	14
+can you get me directions to stanford from facebook	14
+can you get me directions to nvidia santa clara office from google	14
+can you get me directions to nvidia santa clara office from facebook	14
+can you show me the route to new york by car	14
+can you show me the route to work by car	14
+show me directions to google by bike	14
+show me directions to facebook by bike	14
+find route to 203, lincoln avenue by walking	14
+find route to nvidia by walking	14
+can you display directions to san francisco by foot	14
+can you display directions to 2788, san thomas express way, santa clara by foot	14
+please find the directions to home by bike	14
+please find the directions to chicago by bike	14
+please get directions to office by walking	14
+please get directions to santa clara by walking	14
+can you please find me the way to golden gate bridge from santa clara by bike	14
+can you please find me the way to santa clara convention centre from office by bike	14
+can you please find me the way to santa clara convention centre from santa clara by bike	14
+find me the directions by walking to stanford	14
+find me the directions by walking to nvidia santa clara office	14
+show me the way from google to san francisco	14
+show me the way from google to 2788, san thomas express way, santa clara	14
+show me the way from facebook to san francisco	14
+show me the way from facebook to 2788, san thomas express way, santa clara	14
+fetch me the route by foot from san francisco to stanford	14
+fetch me the route by foot from san francisco to nvidia santa clara office	14
+fetch me the route by foot from london to nvidia santa clara office	14
+can you show the directions to nvidia headquarters from san jose	14
+can you show the directions to intel museum from san jose	14
+can you show the directions to intel museum from chicago	14
+please find the directions from san francisco to golden gate bridge	14
+please find the directions from san francisco to santa clara convention centre	14
+please find the directions from london to golden gate bridge	14
+please find the directions from london to santa clara convention centre	14
+can you get directions from 203, lincoln avenue to stanford by car	14
+can you get directions from 203, lincoln avenue to nvidia santa clara office by car	14
+can you get directions from 2788, san thomas express way, santa clara to stanford by car	14
+can you get directions from 2788, san thomas express way, santa clara to nvidia santa clara office by car	14
+please find directions from google to santa clara	14
+please find directions from facebook to office	14
+new york	14
+work	14
+google by bike	14
+facebook by bike	14
+to 203, lincoln avenue	14
+to nvidia	14
+to london on foot	14
+to san jose on foot	14
+new york	14
+google by bike	14
+to 203, lincoln avenue	14
+to nvidia	14
+to london on foot	14
+to san jose on foot	14
+get me the directions	15
+show the way	15
+find the path	15
+display route	15
+find me the directions to it	15
+get directions	15
+show me directions	15
+please show the directions to it	15
+please display directions	15
+please find me the directions	15
+please show the path	15
+can you show the directions	15
+can you find me the directions to it	15
+can you show the way	15
+show the directions by car	15
+get me the route by bike	15
+find me the route by walking	15
+display directions by foot	15
+please find the directions by bike	15
+can you display the route by walking	15
+please show the directions by foot	15
+can you show the way to a coffee shop	15
+can you show the way to a restaurant	15
+please display the directions to a hotel near home	15
+please display the directions to a hotel near chicago	15
+please display the directions to a movie theatre near home	15
+please display the directions to a movie theatre near chicago	15
+can you find me the path to a hospital within two meters	15
+can you find me the path to a supermarket within two meters	15
+find the directions to a railway station by walking	15
+find the directions to a police station by walking	15
+please show the route to a good coffee shop	15
+please show the route to a good restaurant	15
+can you find me the way to a expensive hotel within five kilometers	15
+can you find me the way to a expensive movie theatre within five kilometers	15
+can you please find the route to a cheap hospital by foot	15
+can you please find the route to a cheap supermarket by foot	15
+can you get me the directions to a good indian coffee shop closeby	15
+can you get me the directions to a good indian restaurant closeby	15
+can you get me the directions to a good chinese coffee shop closeby	15
+can you get me the directions to a good chinese restaurant closeby	15
+find me the route to a continental coffee shop	15
+find me the route to a continental restaurant	15
+find me the route to a american coffee shop	15
+find me the route to a american restaurant	15
+get me the way to a mexican coffee shop near office	15
+get me the way to a mexican coffee shop near santa clara	15
+get me the way to a mexican restaurant near office	15
+get me the way to a mexican restaurant near santa clara	15
+get me the way to a italian coffee shop near office	15
+get me the way to a italian coffee shop near santa clara	15
+get me the way to a italian restaurant near office	15
+get me the way to a italian restaurant near santa clara	15
+show the way to a japanese coffee shop near san francisco	15
+show the way to a japanese coffee shop near 2788, san thomas express way, santa clara	15
+show the way to a japanese restaurant near san francisco	15
+show the way to a japanese restaurant near 2788, san thomas express way, santa clara	15
+show the way to a greek coffee shop near san francisco	15
+show the way to a greek coffee shop near 2788, san thomas express way, santa clara	15
+show the way to a greek restaurant near san francisco	15
+show the way to a greek restaurant near 2788, san thomas express way, santa clara	15
+can you find the directions to a french coffee shop within ten miles	15
+can you find the directions to a french restaurant within ten miles	15
+can you find the directions to a thai coffee shop within ten miles	15
+can you find the directions to a thai restaurant within ten miles	15
+find the path to a spanish coffee shop by car	15
+find the path to a spanish restaurant by car	15
+find the path to a mediterranean coffee shop by car	15
+find the path to a mediterranean restaurant by car	15
+fetch me the route to a good vietnamese coffee shop	15
+fetch me the route to a good vietnamese restaurant	15
+fetch me the route to a good european coffee shop	15
+fetch me the route to a good european restaurant	15
+please get me the directions to a expensive indian coffee shop within two miles	15
+please get me the directions to a expensive indian restaurant within two miles	15
+please get me the directions to a expensive chinese coffee shop within two miles	15
+please get me the directions to a expensive chinese restaurant within two miles	15
+tell me the directions to a cheap continental coffee shop by bike	15
+tell me the directions to a cheap continental restaurant by bike	15
+tell me the directions to a cheap american coffee shop by bike	15
+tell me the directions to a cheap american restaurant by bike	15
+find the route to a good mexican coffee shop nearby	15
+find the route to a good italian coffee shop nearby	15
+find the route to a good italian restaurant nearby	15
+show the way to the nearest railway station	15
+show the way to the nearest police station	15
+can you find the directions to the closest kfc by walking	15
+can you find the directions to the closest walmart by walking	15
+can you find the directions to the closest starbucks by walking	15
+find me the path to the cheapest coffee shop	15
+find me the path to the cheapest restaurant	15
+display the route to the cheapest hotel within five meters	15
+display the route to the cheapest movie theatre within five meters	15
+show the route to the cheapest supermarket nearby	15
+can you please find the way to the cheapest hospital closeby by walking	15
+can you please find the way to the cheapest supermarket closeby by walking	15
+show the directions by foot to macdonald's	15
+show the directions by foot to domino's	15
+can you tell the directions by walking to kfc near 203, lincoln avenue	15
+can you tell the directions by walking to kfc near nvidia	15
+can you tell the directions by walking to walmart near 203, lincoln avenue	15
+can you tell the directions by walking to walmart near nvidia	15
+can you tell the directions by walking to starbucks near 203, lincoln avenue	15
+can you tell the directions by walking to starbucks near nvidia	15
+find the way on foot to a good railway station	15
+find the way on foot to a good police station	15
+tell the directions by bike to a expensive railway station expensive	15
+tell the directions by bike to a expensive police station expensive	15
+show the path by walking to the closest supermarket	15
+get me the directions by foot to the cheapest hotel	15
+get me the directions by foot to the cheapest movie theatre	15
+hotel	15
+movie theatre	15
+to hospital	15
+to supermarket	15
+to railway station near google	15
+to railway station near facebook	15
+to police station near google	15
+to police station near facebook	15
+indian coffee shop	15
+indian restaurant	15
+chinese coffee shop	15
+chinese restaurant	15
+to continental coffee shop	15
+to continental restaurant	15
+to american coffee shop	15
+to american restaurant	15
+to mexican coffee shop near new york	15
+to mexican coffee shop near work	15
+to mexican restaurant near new york	15
+to mexican restaurant near work	15
+to italian coffee shop near work	15
+to italian restaurant near new york	15
+to italian restaurant near work	15
+to a good hotel	15
+to a good movie theatre	15
+to a kfc closeby	15
+to a starbucks closeby	15
+a cheap coffee shop	15
+a cheap restaurant	15
+a macdonald's nearby	15
+a domino's nearby	15
+the cheapest hotel	15
+the cheapest movie theatre	15
+the cheapest hospital closeby	15
+the cheapest supermarket closeby	15
+to a nearby railway station	15
+to a nearby police station	15
+closeby kfc	15
+closeby walmart	15
+closeby starbucks	15
+hotel	15
+movie theatre	15
+to hospital	15
+to supermarket	15
+to railway station near google	15
+to railway station near facebook	15
+to police station near google	15
+to police station near facebook	15
+indian coffee shop	15
+chinese coffee shop	15
+chinese restaurant	15
+to continental coffee shop	15
+to continental restaurant	15
+to american coffee shop	15
+to mexican coffee shop near new york	15
+to mexican coffee shop near work	15
+to mexican restaurant near new york	15
+to mexican restaurant near work	15
+to italian coffee shop near new york	15
+to italian coffee shop near work	15
+to italian restaurant near work	15
+to a good hotel	15
+to a good movie theatre	15
+to a kfc closeby	15
+to a walmart closeby	15
+to a starbucks closeby	15
+a cheap coffee shop	15
+a cheap restaurant	15
+a macdonald's nearby	15
+a domino's nearby	15
+the cheapest hotel	15
+the cheapest movie theatre	15
+the cheapest hospital closeby	15
+the cheapest supermarket closeby	15
+to a nearby railway station	15
+to a nearby police station	15
+closeby kfc	15
+closeby walmart	15
+closeby starbucks	15
+get me the directions without highways	16
+show the way while avoiding highways	16
+find the path and avoid highways	16
+display route by avoiding highways	16
+find me the directions to it while avoiding highways	16
+get directions without highways	16
+show me directions while avoiding highways	16
+please show the directions to it by avoiding highways	16
+please display directions wihtout highways	16
+please find me the directions and avoid highways	16
+please avoid highways and show the path	16
+can you avoid highways and show the directions	16
+can you find me the directions to it while avoiding highways	16
+can you display the route without highways	16
+can you show the way and avoid highways	16
+show the directions by car without highways	16
+avoid highways and find me the route by walking	16
+display directions by foot by avoiding highways	16
+can you display directions by car without highways	16
+please find the directions by bike while avoiding highways	16
+can you display the route by walking by avoiding highways	16
+show me the directions to london without highways	16
+show me the directions to san jose without highways	16
+find the route to 2788, san thomas express way, santa clara by avoiding highways	16
+display directions to 203, lincoln avenue while avoiding highways	16
+display directions to nvidia while avoiding highways	16
+can you avoid highways and show the directions to google	16
+can you avoid highways and show the directions to facebook	16
+can you find me the route to new york without highways	16
+can you find me the route to work without highways	16
+please get the directions to stanford while avoiding highways	16
+please get the directions to nvidia santa clara office while avoiding highways	16
+please display the way to golden gate bridge without highways	16
+please display the way to santa clara convention centre without highways	16
+find me the path to office from san jose by avoiding highways	16
+find me the path to office from chicago by avoiding highways	16
+find me the path to santa clara from san jose by avoiding highways	16
+find me the path to santa clara from chicago by avoiding highways	16
+get directions to nvidia headquarters from san francisco without highways	16
+get directions to nvidia headquarters from london without highways	16
+get directions to intel museum from san francisco without highways	16
+get directions to intel museum from london without highways	16
+can you show route to golden gate bridge from 203, lincoln avenue by avoiding highways	16
+can you show route to golden gate bridge from 2788, san thomas express way, santa clara by avoiding highways	16
+can you show route to santa clara convention centre from 2788, san thomas express way, santa clara by avoiding highways	16
+can you get me directions to stanford from google and avoid highways	16
+can you get me directions to stanford from facebook and avoid highways	16
+can you get me directions to nvidia santa clara office from google and avoid highways	16
+can avoid highways and you show me the route to new york by car	16
+can avoid highways and you show me the route to work by car	16
+show me directions to google by bike while avoiding highways	16
+show me directions to facebook by bike while avoiding highways	16
+find route to 203, lincoln avenue by walking without highways	16
+find route to nvidia by walking without highways	16
+can you display directions to san francisco by foot and avoid highways	16
+can you display directions to 2788, san thomas express way, santa clara by foot and avoid highways	16
+can you show me the directions to london by car without highways	16
+can you show me the directions to san jose by car without highways	16
+please find the directions to home by bike by avoiding highways	16
+please find the directions to chicago by bike by avoiding highways	16
+please get directions to office by walking and avoid highways	16
+please get directions to santa clara by walking and avoid highways	16
+can you please find me the way to golden gate bridge from office by bike without highways	16
+can you please find me the way to santa clara convention centre from office by bike without highways	16
+avoid highways and find me the directions by walking to stanford	16
+avoid highways and find me the directions by walking to nvidia santa clara office	16
+show me the way from google to san francisco by avoiding highways	16
+show me the way from google to 2788, san thomas express way, santa clara by avoiding highways	16
+show me the way from facebook to san francisco by avoiding highways	16
+show me the way from facebook to 2788, san thomas express way, santa clara by avoiding highways	16
+fetch me the route by foot from san francisco to nvidia santa clara office by avoiding highways	16
+fetch me the route by foot from london to stanford by avoiding highways	16
+can you show the directions to nvidia headquarters from san jose and avoid highways	16
+can you show the directions to nvidia headquarters from chicago and avoid highways	16
+can you show the directions to intel museum from san jose and avoid highways	16
+can you show the directions to intel museum from chicago and avoid highways	16
+please find the directions from san francisco to golden gate bridge without highways	16
+please find the directions from san francisco to santa clara convention centre without highways	16
+please find the directions from london to golden gate bridge without highways	16
+please find the directions from london to santa clara convention centre without highways	16
+can you get directions from 203, lincoln avenue to stanford by car by avoiding highways	16
+can you get directions from 203, lincoln avenue to nvidia santa clara office by car by avoiding highways	16
+can you get directions from 2788, san thomas express way, santa clara to stanford by car by avoiding highways	16
+can you get directions from 2788, san thomas express way, santa clara to nvidia santa clara office by car by avoiding highways	16
+new york	16
+work	16
+google by bike	16
+to 203, lincoln avenue	16
+to nvidia	16
+to london on foot	16
+to san jose on foot	16
+show me home on the map	17
+show me chicago on the map	17
+show the location of office	17
+show the location of santa clara	17
+can you show the location of nvidia headquarters on the map	17
+can you show the location of intel museum on the map	17
+please get the map of golden gate bridge	17
+please get the map of santa clara convention centre	17
+where is stanford located	17
+where is nvidia santa clara office located	17
+where is new york situated on the map	17
+locate facebook on the map	17
+show me my location	17
+get my coordinates on the map	17
+get me coordinates on the map	17
+can you please show my current location	17
+can you please show mine current location	17
+can you please show me current location	17
+please display my current latitude and longitude on the map	17
+please display mine current latitude and longitude on the map	17
+please display me current latitude and longitude on the map	17
+show mine position	17
+show me position	17
+what is mine location	17
+what is me location	17
+where am i	17
+please show home on the map	17
+please show chicago on the map	17
+please locate office on the map	17
+please locate santa clara on the map	17
+can you locate nvidia headquarters on the map	17
+can you locate intel museum on the map	17
+can you show me golden gate bridge on the map	17
+can you show me santa clara convention centre on the map	17
+san francisco	17
+2788, san thomas express way, santa clara	17
+home	17
+chicago	17
+stanford	17
+nvidia santa clara office	17
+me location	17
+locate on the map	18
+show on the map	18
+locate it on the map	18
+show it on the map	18
+where is it on the map	18
+please show on the map	18
+please display on the map	18
+please locate on the map	18
+can you show it on the map	18
+can you display on the map	18
+can you locate it on the map	18
+can you please show where it is on the map	18
+please show a macdonald's on the map	18
+please show a domino's on the map	18
+please find me a coffee shop on the map near office	18
+please find me a coffee shop on the map near santa clara	18
+please find me a restaurant on the map near office	18
+please find me a restaurant on the map near santa clara	18
+find a hospital within five kilometers on the map	18
+find a supermarket within five kilometers on the map	18
+please find a railway station on the map within ten miles	18
+please find a police station on the map within ten miles	18
+can you find a continental coffee shop there	18
+can you find a continental restaurant there	18
+can you find a american coffee shop there	18
+can you find a american restaurant there	18
+find a mexican coffee shop on the map	18
+find a mexican restaurant on the map	18
+find a italian coffee shop on the map	18
+find a italian restaurant on the map	18
+can you find a japanese coffee shop on the map near golden gate bridge	18
+can you find a japanese restaurant on the map near golden gate bridge	18
+can you find a japanese restaurant on the map near santa clara convention centre	18
+can you find a greek coffee shop on the map near golden gate bridge	18
+can you find a greek coffee shop on the map near santa clara convention centre	18
+can you find a greek restaurant on the map near golden gate bridge	18
+can you find a greek restaurant on the map near santa clara convention centre	18
+please find a french coffee shop within two kilometers	18
+please find a french restaurant within two kilometers	18
+please find a thai coffee shop within two kilometers	18
+please find a thai restaurant within two kilometers	18
+can you show me a spanish coffee shop within five miles on the map	18
+can you show me a spanish restaurant within five miles on the map	18
+can you show me a mediterranean coffee shop within five miles on the map	18
+can you show me a mediterranean restaurant within five miles on the map	18
+find me a vietnamese coffee shop on the map within ten meters	18
+find me a vietnamese restaurant on the map within ten meters	18
+find me a european coffee shop on the map within ten meters	18
+find me a european restaurant on the map within ten meters	18
+display a cheap coffee shop on the map	18
+display a cheap restaurant on the map	18
+show me a good hotel on the map near golden gate bridge	18
+show me a good hotel on the map near santa clara convention centre	18
+show me a good movie theatre on the map near golden gate bridge	18
+show me a good movie theatre on the map near santa clara convention centre	18
+please show me a good coffee shop on the map within two miles	18
+please show me a good restaurant on the map within two miles	18
+can you show a expensive hotel on the map located within ten meters	18
+can you show a expensive movie theatre on the map located within ten meters	18
+can you please show me a good hospital nearby on the map	18
+can you please show me a good supermarket nearby on the map	18
+show a expensive coffee shop on the map closeby	18
+show a expensive restaurant on the map closeby	18
+locate a kfc on the map	18
+locate a walmart on the map	18
+locate a starbucks on the map	18
+locate a indian coffee shop on the map	18
+locate a indian restaurant on the map	18
+locate a chinese coffee shop on the map	18
+locate a chinese restaurant on the map	18
+locate a macdonald's on the map within two miles	18
+locate a domino's on the map within two miles	18
+locate a hospital on the map located within five meters	18
+locate a supermarket on the map located within five meters	18
+locate a expensive coffee shop on the map	18
+locate a expensive restaurant on the map	18
+locate a cheap hospital within ten miles	18
+locate a cheap supermarket within ten miles	18
+locate a good coffee shop on the map within five miles	18
+locate a good restaurant on the map within five miles	18
+locate the closest kfc on the map	18
+locate the closest walmart on the map	18
+locate the closest starbucks on the map	18
+locate the cheapest hotel nearby on the map	18
+locate the cheapest movie theatre nearby on the map	18
+locate the cheapest coffee shop on the map within two miles	18
+locate the cheapest restaurant on the map within two miles	18
+locate a nearby expensive macdonald's on the map	18
+locate a nearby expensive domino's on the map	18
+where is the closest hotel situated on the map	18
+where is the closest movie theatre situated on the map	18
+where is the closeby continental coffee shop located on the map	18
+where is the closeby continental restaurant located on the map	18
+where is the closeby american coffee shop located on the map	18
+where is the closeby american restaurant located on the map	18
+show the coordinates of the closest hotel on the map	18
+show the coordinates of the closest movie theatre on the map	18
+please show the location of the cheapest hotel on the map	18
+please show the location of the cheapest movie theatre on the map	18
+can you show the coordinates of a nearby hospital on the map	18
+can you show the coordinates of a nearby supermarket on the map	18
+get me the coordinates of a expensive restaurant on the map	18
+can you display the latitude and longitude of a good hospital nearby	18
+can you display the latitude and longitude of a good supermarket nearby	18
+find me a coffee shop	18
+find me a restaurant	18
+show a hotel	18
+show a movie theatre	18
+get me a hospital	18
+get me a supermarket	18
+find a indian coffee shop	18
+find a indian restaurant	18
+find a chinese coffee shop	18
+find a chinese restaurant	18
+show me a continental coffee shop	18
+show me a continental restaurant	18
+show me a american coffee shop	18
+show me a american restaurant	18
+show a railway station near home	18
+show a railway station near chicago	18
+show a police station near home	18
+show a police station near chicago	18
+can you find me a kfc there	18
+can you find me a walmart there	18
+can you find me a starbucks there	18
+can you show me a hotel within two meters	18
+can you show me a movie theatre within two meters	18
+show me a indian coffee shop near nvidia headquarters	18
+show me a indian coffee shop near intel museum	18
+show me a indian restaurant near nvidia headquarters	18
+show me a indian restaurant near intel museum	18
+show me a chinese coffee shop near nvidia headquarters	18
+show me a chinese coffee shop near intel museum	18
+show me a chinese restaurant near nvidia headquarters	18
+show me a chinese restaurant near intel museum	18
+show a good hotel	18
+show a good movie theatre	18
+can you tell me a expensive hospital there	18
+can you tell me a expensive supermarket there	18
+find me a expensive hospital within five meters	18
+find me a expensive supermarket within five meters	18
+can you please find me a cheap coffee shop located within ten kilometers	18
+can you please find me a cheap restaurant located within ten kilometers	18
+get me a cheap hospital closeby	18
+get me a cheap supermarket closeby	18
+locate a railway station	18
+locate a police station	18
+locate a good hotel	18
+locate a good movie theatre	18
+locate the nearest railway station	18
+locate the nearest police station	18
+locate the cheapest coffee shop closeby	18
+locate the cheapest restaurant closeby	18
+locate the cheapest hospital within five kilometers	18
+locate the cheapest supermarket within five kilometers	18
+locate a closeby good railway station	18
+where is the nearest hospital located	18
+where is the nearest supermarket located	18
+is there any good coffee shop closeby	18
+is there any good restaurant closeby	18
+is there any expensive hotel within two miles	18
+is there any expensive movie theatre within two miles	18
+where is the nearest indian coffee shop situated	18
+where is the nearest indian restaurant situated	18
+where is the nearest chinese coffee shop situated	18
+where is the nearest chinese restaurant situated	18
+is there any good mexican coffee shop nearby	18
+is there any good mexican restaurant nearby	18
+is there any good italian coffee shop nearby	18
+is there any good italian restaurant nearby	18
+is there any expensive japanese coffee shop within five kilometers	18
+is there any expensive japanese restaurant within five kilometers	18
+is there any expensive greek restaurant within five kilometers	18
+find me the location of the nearest hospital	18
+can you show me the latitude and longitude of the cheapest coffee shop	18
+can you show me the latitude and longitude of the cheapest restaurant	18
+please find the coordinates of the cheapest hospital within two meters	18
+please find the coordinates of the cheapest supermarket within two meters	18
+show me the location of the cheapest coffee shop closeby	18
+show me the location of the cheapest restaurant closeby	18
+please find the latitude and longitude of a closeby hotel	18
+please find the latitude and longitude of a closeby movie theatre	18
+find the location of a good hotel	18
+find the location of a good movie theatre	18
+display a list of coffee shop	18
+display a list of restaurant	18
+show me a list of hotel within two meters	18
+show me a list of movie theatre within two meters	18
+can you please display a list of kfc closeby	18
+can you please display a list of walmart closeby	18
+can you please display a list of starbucks closeby	18
+find the nearest hotel	18
+can you find me the cheapest coffee shop nearby	18
+can you find me the cheapest restaurant nearby	18
+can you show me the list of coffee shop sorted by price	18
+can you show me the list of restaurant sorted by price	18
+get me the list of hotel within five kilometers sorted by rating	18
+get me the list of movie theatre within five kilometers sorted by rating	18
+show me the list of hospital and sort them by distance	18
+show me the list of supermarket and sort them by distance	18
+display the location of a cheap hotel within ten miles	18
+display the location of a cheap movie theatre within ten miles	18
+railway station	18
+police station	18
+french coffee shop	18
+french restaurant	18
+thai coffee shop	18
+thai restaurant	18
+hotel and sort them by price	18
+movie theatre and sort them by price	18
+a list of coffee shop and sort them by rating	18
+a list of restaurant and sort them by rating	18
+to kfc near san francisco	18
+to walmart near san francisco	18
+to walmart near 2788, san thomas express way, santa clara	18
+to starbucks near san francisco	18
+to starbucks near 2788, san thomas express way, santa clara	18
+to vietnamese hotel near google	18
+to vietnamese hotel near facebook	18
+to vietnamese movie theatre near google	18
+to vietnamese movie theatre near facebook	18
+to european hotel near google	18
+to european hotel near facebook	18
+to european movie theatre near facebook	18
+to a good hospital	18
+to a good supermarket	18
+to a macdonald's closeby	18
+to a domino's closeby	18
+a expensive movie theatre	18
+a kfc nearby	18
+a walmart nearby	18
+a starbucks nearby	18
+the cheapest coffee shop	18
+the cheapest restaurant	18
+the cheapest movie theatre closeby	18
+to a nearby hospital	18
+to a nearby supermarket	18
+closeby kfc	18
+closeby walmart	18
+closeby starbucks	18
+railway station	18
+police station	18
+french coffee shop	18
+french restaurant	18
+thai coffee shop	18
+thai restaurant	18
+hotel and sort them by price	18
+movie theatre and sort them by price	18
+a list of coffee shop and sort them by rating	18
+a list of restaurant and sort them by rating	18
+to kfc near san francisco	18
+to kfc near 2788, san thomas express way, santa clara	18
+to walmart near san francisco	18
+to walmart near 2788, san thomas express way, santa clara	18
+to starbucks near san francisco	18
+to starbucks near 2788, san thomas express way, santa clara	18
+to vietnamese hotel near google	18
+to vietnamese hotel near facebook	18
+to vietnamese movie theatre near google	18
+to vietnamese movie theatre near facebook	18
+to european hotel near google	18
+to european hotel near facebook	18
+to european movie theatre near google	18
+to european movie theatre near facebook	18
+to a good hospital	18
+to a good supermarket	18
+to a macdonald's closeby	18
+to a domino's closeby	18
+a expensive hotel	18
+a expensive movie theatre	18
+a kfc nearby	18
+a walmart nearby	18
+a starbucks nearby	18
+the cheapest coffee shop	18
+the cheapest restaurant	18
+the cheapest hotel closeby	18
+the cheapest movie theatre closeby	18
+to a nearby hospital	18
+to a nearby supermarket	18
+closeby kfc	18
+closeby walmart	18
+closeby starbucks	18
+can you order something from doordash	19
+can you order something from zomato	19
+can you order something from swiggy	19
+i want to order something from doordash	19
+i want to order something from uber eats	19
+i want to order something from zomato	19
+i want to order something from swiggy	19
+start a food order	19
+i am hungry can you order something	19
+i am famished can you get me some food	19
+i am famished can you get me some drink	19
+can you get me something from sankranti coffee shop	19
+can you get me something from sankranti restaurant	19
+can you get me something from paradise biryani coffee shop	19
+can you get me something from paradise biryani restaurant	19
+can you get me something from puranpoli coffee shop	19
+can you get me something from puranpoli restaurant	19
+can you get me something from ulavacharu tiffins restaurant	19
+can you get me something from achi appakadai coffee shop	19
+can you get me something from achi appakadai restaurant	19
+can you get me something from vijayawada biryani point coffee shop	19
+can you get me something from vijayawada biryani point restaurant	19
+can you get me something from biriyani house coffee shop	19
+can you get me something from biriyani house restaurant	19
+can you get me something from china town coffee shop	19
+can you get me something from china town restaurant	19
+can you get me something from apple and roses coffee shop	19
+can you get me something from apple and roses restaurant	19
+can you get me something from la paloma coffee shop	19
+can you get me something from la paloma restaurant	19
+can you get me something from pedro’s & cantina coffee shop	19
+can you get me something from pedro’s & cantina restaurant	19
+can you get me something from el amigo burrito coffee shop	19
+can you get me something from el amigo burrito restaurant	19
+can you get me something from vijayawada biryani point coffee shop	19
+can you get me something from vijayawada biryani point restaurant	19
+can you get me something from taro san japanese noodle bar coffee shop	19
+can you get me something from taro san japanese noodle bar restaurant	19
+can you get me something from ambience coffee shop	19
+can you get me something from ambience restaurant	19
+can you get me something from aldo los altos coffee shop	19
+can you get me something from aldo los altos restaurant	19
+can you get me something from sumika coffee shop	19
+can you get me something from sumika restaurant	19
+please order a calabaza burrito from doordash	19
+please order a calabaza burrito from uber eats	19
+please order a calabaza burrito from zomato	19
+please order a calabaza burrito from swiggy	19
+please order a calabaza burrito with lots of sauce from macdonald's	19
+please order a calabaza burrito with lots of sauce from domino's	19
+please order a calabaza burrito with lots of cheese from macdonald's	19
+please order a calabaza burrito with lots of cheese from domino's	19
+please order a calabaza burrito with lots of spice from macdonald's	19
+please order a calabaza burrito with lots of spice from domino's	19
+please order a calabaza burrito with lots of chilly from macdonald's	19
+please order a calabaza burrito with lots of chilly from domino's	19
+please order a deep fried ice cream with lots of sauce from macdonald's	19
+please order a deep fried ice cream with lots of sauce from domino's	19
+please order a deep fried ice cream with lots of cheese from macdonald's	19
+please order a deep fried ice cream with lots of cheese from domino's	19
+please order a deep fried ice cream with lots of spice from macdonald's	19
+please order a deep fried ice cream with lots of spice from domino's	19
+please order a deep fried ice cream with lots of chilly from macdonald's	19
+please order a deep fried ice cream with lots of chilly from domino's	19
+please order a guacamole with lots of sauce from macdonald's	19
+please order a guacamole with lots of sauce from domino's	19
+please order a guacamole with lots of cheese from macdonald's	19
+please order a guacamole with lots of cheese from domino's	19
+please order a guacamole with lots of spice from macdonald's	19
+please order a guacamole with lots of spice from domino's	19
+please order a guacamole with lots of chilly from macdonald's	19
+please order a guacamole with lots of chilly from domino's	19
+i would like a steak	19
+i would like a french fries	19
+i would like a chicken tikka masala	19
+i would like a carne asada fries	19
+i would like a burrito bowl	19
+i am in the mood to eat something	19
+i am hungry	19
+i am thinking what to eat	19
+order some food	19
+order some drink	19
+i need some food	19
+i need some drink	19
+my stomach is rumbling	19
+i am craving for some mexican food	19
+i am craving for some mexican drink	19
+i am craving for some italian food	19
+i am craving for some italian drink	19
+can you order some pad thai for me	19
+can you order some bbq mixed plate for me	19
+can you order some waffle fries for me	19
+get me some poke bowl from doordash	19
+get me some poke bowl from uber eats	19
+get me some poke bowl from zomato	19
+get me some poke bowl from swiggy	19
+get me some chips and queso from doordash	19
+get me some chips and queso from uber eats	19
+get me some chips and queso from zomato	19
+get me some chips and queso from swiggy	19
+get me some cheesesteak from doordash	19
+get me some cheesesteak from uber eats	19
+get me some cheesesteak from zomato	19
+get me some cheesesteak from swiggy	19
+i am craving for some cheese pazzo bread continental domino's	19
+i am craving for some cheese pazzo bread american macdonald's	19
+i am craving for some cheese pazzo bread american domino's	19
+i am craving for some grilled chicken caesar salad continental macdonald's	19
+i am craving for some grilled chicken caesar salad continental domino's	19
+i am craving for some grilled chicken caesar salad american macdonald's	19
+i am craving for some grilled chicken caesar salad american domino's	19
+i am craving for some tamale continental macdonald's	19
+i am craving for some tamale continental domino's	19
+i am craving for some tamale american macdonald's	19
+i am craving for some tamale american domino's	19
+can you order a egg, bacon and cheese sandwitch with extra sauce from a indian kfc	19
+can you order a egg, bacon and cheese sandwitch with extra sauce from a indian walmart	19
+can you order a egg, bacon and cheese sandwitch with extra sauce from a chinese kfc	19
+can you order a egg, bacon and cheese sandwitch with extra sauce from a chinese walmart	19
+can you order a egg, bacon and cheese sandwitch with extra sauce from a chinese starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra cheese from a indian kfc	19
+can you order a egg, bacon and cheese sandwitch with extra cheese from a indian walmart	19
+can you order a egg, bacon and cheese sandwitch with extra cheese from a indian starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra cheese from a chinese kfc	19
+can you order a egg, bacon and cheese sandwitch with extra cheese from a chinese walmart	19
+can you order a egg, bacon and cheese sandwitch with extra cheese from a chinese starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra spice from a indian kfc	19
+can you order a egg, bacon and cheese sandwitch with extra spice from a indian walmart	19
+can you order a egg, bacon and cheese sandwitch with extra spice from a indian starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra spice from a chinese kfc	19
+can you order a egg, bacon and cheese sandwitch with extra spice from a chinese starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra chilly from a indian kfc	19
+can you order a egg, bacon and cheese sandwitch with extra chilly from a indian walmart	19
+can you order a egg, bacon and cheese sandwitch with extra chilly from a indian starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra chilly from a chinese kfc	19
+can you order a egg, bacon and cheese sandwitch with extra chilly from a chinese walmart	19
+can you order a egg, bacon and cheese sandwitch with extra chilly from a chinese starbucks	19
+can you order a veg sandwitch with extra sauce from a indian kfc	19
+can you order a veg sandwitch with extra sauce from a indian walmart	19
+can you order a veg sandwitch with extra sauce from a indian starbucks	19
+can you order a veg sandwitch with extra sauce from a chinese kfc	19
+can you order a veg sandwitch with extra sauce from a chinese walmart	19
+can you order a veg sandwitch with extra sauce from a chinese starbucks	19
+can you order a veg sandwitch with extra cheese from a indian kfc	19
+can you order a veg sandwitch with extra cheese from a indian walmart	19
+can you order a veg sandwitch with extra cheese from a indian starbucks	19
+can you order a veg sandwitch with extra cheese from a chinese kfc	19
+can you order a veg sandwitch with extra cheese from a chinese walmart	19
+can you order a veg sandwitch with extra cheese from a chinese starbucks	19
+can you order a veg sandwitch with extra spice from a indian kfc	19
+can you order a veg sandwitch with extra spice from a indian walmart	19
+can you order a veg sandwitch with extra spice from a indian starbucks	19
+can you order a veg sandwitch with extra spice from a chinese kfc	19
+can you order a veg sandwitch with extra spice from a chinese walmart	19
+can you order a veg sandwitch with extra spice from a chinese starbucks	19
+can you order a veg sandwitch with extra chilly from a indian kfc	19
+can you order a veg sandwitch with extra chilly from a indian walmart	19
+can you order a veg sandwitch with extra chilly from a indian starbucks	19
+can you order a veg sandwitch with extra chilly from a chinese kfc	19
+can you order a veg sandwitch with extra chilly from a chinese walmart	19
+can you order a veg sandwitch with extra chilly from a chinese starbucks	19
+can you order a cheese bread with extra sauce from a indian walmart	19
+can you order a cheese bread with extra sauce from a indian starbucks	19
+can you order a cheese bread with extra sauce from a chinese kfc	19
+can you order a cheese bread with extra sauce from a chinese walmart	19
+can you order a cheese bread with extra sauce from a chinese starbucks	19
+can you order a cheese bread with extra cheese from a indian kfc	19
+can you order a cheese bread with extra cheese from a indian walmart	19
+can you order a cheese bread with extra cheese from a indian starbucks	19
+can you order a cheese bread with extra cheese from a chinese kfc	19
+can you order a cheese bread with extra cheese from a chinese walmart	19
+can you order a cheese bread with extra cheese from a chinese starbucks	19
+can you order a cheese bread with extra spice from a indian kfc	19
+can you order a cheese bread with extra spice from a indian walmart	19
+can you order a cheese bread with extra spice from a indian starbucks	19
+can you order a cheese bread with extra spice from a chinese kfc	19
+can you order a cheese bread with extra spice from a chinese walmart	19
+can you order a cheese bread with extra spice from a chinese starbucks	19
+can you order a cheese bread with extra chilly from a indian kfc	19
+can you order a cheese bread with extra chilly from a indian walmart	19
+can you order a cheese bread with extra chilly from a indian starbucks	19
+can you order a cheese bread with extra chilly from a chinese kfc	19
+can you order a cheese bread with extra chilly from a chinese starbucks	19
+it would be great to dinner in this new opened coffee shop downtown	19
+it would be great to dinner in this new opened restaurant downtown	19
+i’m hungry	19
+i’m feeling hungry	19
+i can eat/use some food	19
+feeling like some food	19
+want to eat something	19
+can you get me something to eat?	19
+what can you get me to eat?	19
+i want some food	19
+i want food	19
+some food would be good about now	19
+can you get me some dinner	19
+can you get me some lunch	19
+it feels like it is lunch	19
+garlic naan from macdonald's	19
+garlic naan from domino's	19
+fried chicken from macdonald's	19
+fried chicken from domino's	19
+coffee from macdonald's	19
+coffee from domino's	19
+crab rangoon with some extra sauce	19
+crab rangoon with some extra cheese	19
+crab rangoon with some extra spice	19
+crab rangoon with some extra chilly	19
+chicken teriyaki bowl with some extra sauce	19
+chicken teriyaki bowl with some extra cheese	19
+chicken teriyaki bowl with some extra spice	19
+chicken teriyaki bowl with some extra chilly	19
+jerk chicken	19
+nachos	19
+mango chicken quesadilla	19
+sankranti	19
+paradise biryani	19
+puranpoli	19
+ulavacharu tiffins	19
+achi appakadai	19
+vijayawada biryani point	19
+biriyani house	19
+china town	19
+apple and roses	19
+la paloma	19
+pedro’s & cantina	19
+el amigo burrito	19
+vijayawada biryani point	19
+taro san japanese noodle bar	19
+ambience	19
+aldo los altos	19
+sumika	19
+what about a notso fries from coffee shop	19
+what about a notso fries from restaurant	19
+what about a spicy tuna roll from coffee shop	19
+what about a hot dog from coffee shop	19
+what about a hot dog from restaurant	19
+check where my food is from uber eats	20
+check where my food is from zomato	20
+check where my food is from swiggy	20
+check where my drink is from doordash	20
+check where my drink is from uber eats	20
+check where my drink is from zomato	20
+check where my drink is from swiggy	20
+where is my food	20
+where is my drink	20
+can you check on my dinner	20
+how long till my order from doordash is here	20
+how long till my order from uber eats is here	20
+how long till my order from zomato is here	20
+how long till my order from swiggy is here	20
+at what time will my food reach me	20
+at what time will my drink reach me	20
+when will my order reach me	20
+when will it arrive	20
+what is the eta for my order	20
+when will my pizza reach me	20
+when will my burger reach me	20
+when will my chicken biriyani reach me	20
+when will my pasta reach me	20
+when will my coffee reach me	20
+when will my veg sandwitch reach me	20
+when will my cheese bread reach me	20
+when will my calabaza burrito reach me	20
+when will my deep fried ice cream reach me	20
+when will my guacamole reach me	20
+when will my tamale reach me	20
+when will my grilled chicken caesar salad reach me	20
+when will my mango chicken quesadilla reach me	20
+when will my steak reach me	20
+when will my french fries reach me	20
+when will my chicken tikka masala reach me	20
+when will my carne asada fries reach me	20
+when will my burrito bowl reach me	20
+when will my pad thai reach me	20
+when will my bbq mixed plate reach me	20
+when will my waffle fries reach me	20
+when will my poke bowl reach me	20
+when will my chips and queso reach me	20
+when will my cheese pazzo bread reach me	20
+when will my egg, bacon and cheese sandwitch reach me	20
+when will my garlic naan reach me	20
+when will my crab rangoon reach me	20
+when will my chicken teriyaki bowl reach me	20
+when will my jerk chicken reach me	20
+when will my nachos reach me	20
+when will my notso fries reach me	20
+when will my spicy tuna roll reach me	20
+when will my fried chicken reach me	20
+when will my hot dog reach me	20
+hey when will it arrive i am hungry	20
+where is my pizza now	20
+where is my burger now	20
+where is my pasta now	20
+where is my veg sandwitch now	20
+where is my calabaza burrito now	20
+where is my guacamole now	20
+where is my tamale now	20
+where is my mango chicken quesadilla now	20
+where is my steak now	20
+where is my french fries now	20
+where is my chicken tikka masala now	20
+where is my carne asada fries now	20
+where is my burrito bowl now	20
+where is my pad thai now	20
+where is my bbq mixed plate now	20
+where is my waffle fries now	20
+where is my poke bowl now	20
+where is my chips and queso now	20
+where is my cheese pazzo bread now	20
+where is my egg, bacon and cheese sandwitch now	20
+where is my garlic naan now	20
+where is my crab rangoon now	20
+where is my chicken teriyaki bowl now	20
+where is my jerk chicken now	20
+where is my nachos now	20
+where is my notso fries now	20
+where is my spicy tuna roll now	20
+where is my fried chicken now	20
+where is my cheesesteak now	20
+where is my hot dog now	20
+thank you so much when will it reach my home	20
+how long till it reaches my home	20
+when will it reach me i am so hungry right now	20
+can you tell me the location where my food is right now	20
+can you tell me the location where my drink is right now	20
+is my food on route	20
+has my drink been parceled	20
+has macdonald's packed my food yet	20
+has macdonald's packed my drink yet	20
+has domino's packed my food yet	20
+has domino's packed my drink yet	20
+what is the status of my order?	20
+when will my order arrive?	20
+do you have an eta for the order?	20
+do you have an eta for my food order?	20
+do you have an eta for my drink order?	20
+how long will my order take	20
+how long will it be delivered	20
+how long does it need to be delivered	20
+any idea when will my food be delivered	20
+yes confirm the order	21
+confirm it	21
+place that order	21
+yes place that order please	21
+place the order now	21
+what are people ordering these days in chicago	22
+what type of food are people ordering during this lockdown	22
+what type of drink are people ordering during this lockdown	22
+what is most popular food of office	22
+what is most popular food of santa clara	22
+what is most popular drink of santa clara	22
+which drink is in most demand	22
+what is the most demanding food in nvidia headquarters	22
+what is the most demanding food in intel museum	22
+what is the most demanding drink in nvidia headquarters	22
+what is the most demanding drink in intel museum	22
+which is the most in demand food right now	22
+which is the most in demand drink right now	22
+which food are people taking delivery nowadays	22
+can you tell me what people is ordering most nowadays	22
+hey do you know what most people are ordering in new york	22
+what is the most famous food in new york	22
+what is the most famous food in work	22
+whats popular food	22
+whats popular drink	22
+what is the most popular continental dish in the coffee shop	22
+what is the most popular continental dish in the restaurant	22
+what is the most popular american dish in the coffee shop	22
+what is the most popular american dish in the restaurant	22

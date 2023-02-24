@@ -1,0 +1,15 @@
+# Format:
+# (transcript)  domain_name     intent_name     slot_tag_1 : slot_value_1 : slot_value_2, slot_tag_2 : slot_value_1     response
+
+("Hello" | "Hi" | "Hey")				"Hi there"
+("Good morning")				"Good morning."
+("Good afternoon")				"Good afternoon."
+("Good evening")				"Good evening."
+("Good day")				"Good day to you too."
+("ok")				"can i help you with anything else?"
+("whats up" | "wassup") 			"whats up!"
+("hmmm"| "hm" | "hmmmm")    			"Hmmm"
+("Thanks" | "Thank you")				("You are most welcome!"|"The pleasure is mine!"|"Happy to help")
+("Bye").["Bye"]				("see you"|"Bye"|"Bye bye")
+("Nice meeting you")				"Nice meeting you too"
+("Have a good day" | "Have a good one")				("You as well!")

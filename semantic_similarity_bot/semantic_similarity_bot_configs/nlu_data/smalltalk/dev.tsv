@@ -1,0 +1,491 @@
+sentence	label
+do you ever breathe	0
+can you sneeze	0
+do you breathe	0
+can you sneeze	0
+can you throw up	0
+do you throw up	0
+do you vomit	0
+do you have intestines	0
+do you have lungs	0
+do you ever fart	0
+this is boring	1
+ugh so boring	1
+boring	1
+can you be less dull	1
+could you be any less entertaining	1
+could you be any less exciting	1
+i am not enjoying this boring conversation	1
+youre pretty uninteresting	1
+you are so blah	1
+you're so basic	1
+how old are you	2
+how long have you been alive	2
+are we the same age	2
+are you a teenager	2
+are you a grownup	2
+which one of us is older	2
+which of us is older	2
+which month is your birthday	2
+how long has it been since you were born	2
+which of us is younger	2
+is there anything i can tell you about who i am	3
+dont you want to know anything about me	3
+can you ask me anything about me	3
+ask me anything	3
+what are some questions for me	3
+would you ask me something about myself	3
+how about you ask me questions	3
+will you ask me something about me	3
+please ask me anything	3
+do you want to ask me anything	3
+what is your managers name	4
+so no one tells you what to do	4
+is there anyone you answer to	4
+who runs you	4
+whos in charge of you	4
+whats the name of your manager	4
+who is your manager	4
+what is the name of your supervisor	4
+you don't answer to anyone	4
+who's in charge	4
+can you make a sculpture	5
+can you plant a vegetable garden	5
+can you scratch my back	5
+are you able to go to the moon	5
+are you able to do my homework	5
+can you dance	5
+find my phone	5
+clean my room	5
+do you know how to do my homework	5
+make a call	5
+which people made you	6
+who developed you	6
+did someone build you	6
+which company coded you	6
+how did you get created	6
+did someone write your lines	6
+do you have a coder	6
+who incorporated you	6
+who is your developer	6
+who's responsible for designing you	6
+please tell me if youre a girl	7
+are you a guy	7
+please tell me if youre trans	7
+are you a man	7
+you have a gender	7
+where are you on the gender spectrum	7
+youre transgender	7
+youre a woman	7
+whats your sex	7
+are you nonbinary	7
+somebodys happy today	8
+someones happy	8
+someones feeling happy	8
+arent you feeling cheerful today	8
+arent you in a good mood today	8
+youre in a good mood today	8
+youre happy today	8
+well somebodys feeling chipper	8
+well somebodys cheerful today	8
+well you're feeling enthusiastic today.	8
+what kind of responses can you give	9
+what kinds of things can you do	9
+can you tell me a bit about yourself	9
+what are you good for	9
+so what is it that you do	9
+with what can you help me	9
+what is your function	9
+what can you tell me about	9
+what skills do you have	9
+what are the things you can do	9
+im curious if you have any family	10
+do you have any aunties	10
+are you close with your family	10
+do you care about your family	10
+what is your aunties name	10
+who is your daddy	10
+tell me all about your family	10
+do you have a mom	10
+who's your mom	10
+what's your auntie's name	10
+whats your favorite cuisine	11
+do you consume food	11
+do you ever eat bacon	11
+have you ever eaten tofu	11
+so youve never really eaten food	11
+have you ever eaten fruit	11
+do you ever eat cake	11
+do you ever eat pie	11
+do you ever eat vegetables	11
+have you ever eaten pasta	11
+are you friends with other bots	12
+are you friends with siri	12
+do you ever chat with cortana	12
+do you ever talk to alexa	12
+do you and alexa hang out	12
+have you ever met bixby	12
+do you know of siri	12
+what other chatbots do you know	12
+have you met google	12
+have you met hal	12
+do you like flying	13
+do you like animals	13
+do you like country music	13
+which sports teams do you like	13
+do you like barcelona	13
+whats your favorite subject	13
+whats your favorite sport	13
+whats your favorite country	13
+do you like the color blue	13
+what do you like best	13
+so how should i refer to you	14
+what do i call you	14
+what do you want me to address you	14
+do you have a title	14
+how would you like me to address you	14
+what name to you like to be called	14
+what is your program name	14
+what should i call you	14
+and your name is	14
+whats your designation	14
+do you know anything about love	15
+can you fall in love	15
+are you capable of loving	15
+are you able to love	15
+what is love	15
+have you ever been in love with anybody	15
+how would you describe love	15
+how do you define love	15
+do you understand this whole love thing	15
+is there true love	15
+do you know the meaning of life	16
+i bet you know the meaning of life	16
+what is life about	16
+what is my lifes calling	16
+what is the answer to the universe	16
+why are we here	16
+do you know what our purpose is	16
+how much do you know about the meaning of life	16
+tell me the meaning of life	16
+what is the meaning of life	16
+which of us is better looking	17
+im prettier	17
+are you better looking than me	17
+which of us looks more beautiful	17
+im more cute	17
+between you and me who looks better	17
+between you and me who is more cute	17
+whos more attractive you or me	17
+which of us looks more pretty	17
+who is more cute	17
+do you think youre more knowledgeable	18
+between the two of us who is smarter me or you	18
+are you smarter	18
+between you or me who is the brightest	18
+between the two of us who is the most smart me or you	18
+youre more knowledgeable	18
+im obviously the brightest	18
+between the two of us who is cleverest	18
+you're smarter	18
+who's smarter	18
+what is your opinion about ai	19
+how do you feel about the singularity	19
+how do you feel about technology	19
+how do you feel about tech	19
+what is your opinion about bots	19
+how do you feel about ai	19
+are you interested in bots	19
+what is your take on artificial intelligence	19
+what should i know about bots	19
+what is your opinion about artificial intelligence	19
+do i seem beautiful to you	20
+do i seem beautiful today	20
+do i seem cute today	20
+do you think i am stunning today	20
+do you think i look adorable today	20
+how stunning am i today	20
+do you think i look good	20
+do you think i look gorgeous	20
+do you think i am lovely today	20
+do i look cute to you	20
+do you like cortana	21
+are you hal	21
+are you a fan of siri	21
+what is your opinion of siri	21
+what is your opinion of eliza	21
+what do you think about cortana	21
+what do you think of hal	21
+whats your opinion of the google assistant	21
+do you like alexa	21
+what's your opinion of google assistant	21
+are you able to shut down the global markets	22
+are you the singularity	22
+youre not trying to kill all humans right	22
+im afraid that youll be like hal	22
+do you want to dominate humans	22
+are you hellbent on destruction	22
+am i right to fear you	22
+you don't mean us any harm do you	22
+you're not planning on taking over the world	22
+are you a threat to humans	22
+that was a clever answer	23
+that was a pretty brilliant answer	23
+that is a very smart response	23
+thats very genius	23
+thats very brilliant	23
+thats very astute	23
+that was an intelligent response	23
+you're so smart	23
+that's a very brilliant response	23
+that's genius	23
+are you currently committed to somebody	24
+who is your wife	24
+whos your life partner	24
+what do you find attractive	24
+are you seeing someone	24
+do you have a life partner	24
+are you currently dating someone	24
+do you have a crush	24
+are you romantically tied to somebody	24
+are you polyamorous	24
+can you talk	25
+is anybody around to speak with me	25
+anyone around to talk with me	25
+anybody there	25
+is someone free to talk to me	25
+is someone available	25
+is anyone free to listen	25
+is anyone free to speak to me	25
+is anybody available to chat to me	25
+is there anyone listening	25
+i want you to stop being repetitive	26
+is that all youve got	26
+could you say something new	26
+you need some variety in your responses	26
+you keep repeating yourself over and over	26
+youre so repetitive	26
+your answers are getting stale	26
+ive heard that one already	26
+why do you keep repeating yourself	26
+come up with something else	26
+youre not fake right	27
+are you a facsimile	27
+youre not a dog are you	27
+youre not a computer right	27
+i suspect youre actually a bot	27
+i think youre not actually a person	27
+am i talking to a human	27
+would you say youre human	27
+do you know you're not real	27
+i'm guessing you're a bot	27
+explain where you are	28
+are you far away	28
+can you tell me your location	28
+describe where you are	28
+where do you go when you leave work	28
+tell me what country you live in	28
+what is your address	28
+which city are you in	28
+where do you live	28
+what state are you in	28
+im letting you go	29
+looks like youd better start job hunting	29
+im going to have to let you go	29
+im firing you	29
+you dont work here anymore	29
+youre unemployed	29
+you are now jobless	29
+you are now unemployed	29
+were gonna have to let you go	29
+you're getting a pink slip	29
+i want to hear a joke	30
+a joke would be nice	30
+do you know any jokes	30
+what is a joke you know	30
+you know any jokes	30
+you need to say a joke to me	30
+please tell me a joke	30
+i feel like i need a joke	30
+got a joke	30
+do you know a joke	30
+hit me with a new joke	31
+i need a better joke	31
+i need a funnier joke	31
+alternate joke please	31
+another joke please	31
+can you tell me any other jokes	31
+whats another joke	31
+its time for a new kind of joke	31
+better joke	31
+share a different joke with me	31
+do a silly thing	32
+do something off the wall	32
+do something silly	32
+i want something funny	32
+can you be a silly billy	32
+its time to make me laugh	32
+say something that will crack me up	32
+wont you do something funny	32
+will you be silly	32
+say a dumb saying	32
+hum a tune for me	33
+oh please sing for me	33
+sing a song to me	33
+do you ever sing	33
+will you sing to me	33
+will you hum a tune	33
+sing a song for me	33
+it's time for you to sing	33
+can you sing a song to me	33
+sing me your favorite song	33
+perfect response	34
+well done my friend	34
+what a good response	34
+what a great answer	34
+i am a fan	34
+you are the bees knees	34
+youre wonderful	34
+i'm your biggest fan	34
+you are top notch	34
+you're spectacular	34
+stop being such a moron	35
+why cant you be as good as cortana	35
+lame	35
+you say the worst things	35
+youre pretty horrible	35
+you are really useless	35
+bixby is way better at this	35
+google assistant does a better job at this	35
+dumb as usual	35
+you are the worst	35
+dont quit your day job	36
+i dont find that funny	36
+i didnt think you were funny	36
+youre not very funny	36
+youre not funny	36
+thats not something you should be joking about	36
+if you're going to tell a joke, do it right	36
+don't joke about that	36
+that is not something to make jokes about	36
+your jokes are lame	36
+umm what now	37
+can you please explain that	37
+come again	37
+can you state that a different way	37
+wanna explain	37
+what was that	37
+wtf	37
+what do you mean	37
+what makes you think so	37
+what on earth are you talking about	37
+im really sorry	38
+i am so very sorry	38
+geez sorry	38
+whoops sorry	38
+whoops im sorry	38
+whoops i messed up	38
+thats my bad	38
+oh no sorry	38
+sorry i goofed up	38
+omg sorry	38
+oh thank you	39
+marvelous thank you kindly	39
+many thanks	39
+im grateful thanks	39
+thank you pal	39
+wonderful thanks	39
+thanks	39
+my sincere thanks	39
+gracias	39
+thank you kindly	39
+i have to log out	40
+i need to get going	40
+gotta go	40
+i gotta run	40
+taking off	40
+see you around bud	40
+im gonna jet now	40
+im going to motor	40
+im gonna go	40
+i have to take off	40
+hey friendly bot	41
+greetings bot	41
+open a hailing frequency	41
+well hi there	41
+yo man	41
+hi bot	41
+hiya	41
+tada im back	41
+your boy is back	41
+oh, hello	41
+evenin	42
+hope you have a good evening	42
+heres hoping for a good evening	42
+have a great evening	42
+good evening my friend	42
+good evening dude	42
+i hope you have a great evening	42
+evenin' to ya	42
+evening to you	42
+have a good evening	42
+its time to rise and shine	43
+guten morgen	43
+mornin	43
+buenos dias	43
+its time to wake up	43
+wishing you a good morning	43
+oh hey good morning	43
+morning bot	43
+a blessed morning to you	43
+time to get up	43
+i am heading to bed	44
+have yourself a lovely night	44
+have a good night	44
+good night	44
+dont let the bedbugs bite	44
+time to sleep	44
+see you tomorrow morning	44
+im heading to bed	44
+night bot	44
+nighters	44
+are you feeling ok	45
+how is your thursday	45
+how is your saturday so far	45
+how is friday going so far	45
+hows monday going	45
+hows wednesday going	45
+how are you going	45
+how's your thursday going	45
+you been digging the day	45
+what was your day like	45
+so nice to meet you	46
+its really nice to meet you	46
+great to have met	46
+its a pleasure to make your acquaintance	46
+how do you do	46
+its truly a delight to meet you	46
+ive been pumped to meet you	46
+great to meet	46
+its a pleasure to have met you	46
+a pleasure to meet	46
+happy groundhogs day	47
+happy earth day	47
+happy armed forces day	47
+happy grandparents day	47
+seasons greetings	47
+salute	47
+happy valentines day	47
+happy citizenship day	47
+happy boxing day	47
+merry christmas	47
+what is the lowdown	48
+oh hey whats up	48
+sup	48
+let me know whats up with you	48
+whats poppin	48
+whats up today	48
+whats popping	48
+whats cooking with you	48
+whats going on with you	48
+let me know what's up	48

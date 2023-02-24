@@ -1,0 +1,230 @@
+domain: poi
+model_name: poi #model_name: merged for embedded
+
+anchors:
+- semantic_similarity: ["show me directions to restaurant"]
+
+configs:
+  confidence_threshold: 0.3
+  shortterm_memory_max_turns: 2
+  shortterm_memory_timeout: 600
+  form_max_loops: 3
+  enable_ner: riva_ner
+  need_user_response: false
+
+slots:
+  - name: sourceplace
+    memory: shortterm
+    confidence_resolution: 0.8
+    lookup: ["home"]
+
+  - name: poiplace
+    memory: shortterm
+
+  # Used to test slot filling from custom commands
+  - name: location_cc
+    default: 'boston'
+
+  - name:  location
+    entity: [destinationplace, weatherplace, LOC]
+    memory: shortterm
+
+  - name: poisortcriteria
+    lookup: ['price', 'best', 'expensive', 'popular', 'new', 'latest', 'costly']
+    default: 'best_match'
+    synonyms:
+       price : ['expensive', 'costly']
+       best_match: ['popular', 'new', 'latest', 'best']
+    memory: longterm
+
+  - name: cuisinetype
+    memory: shortterm
+
+  - name: distanceunit
+    lookup: ['kilometers', 'miles', 'meters']
+    default: 'miles'
+    memory: longterm
+
+  - name: navigationmethod
+    lookup: ['car', 'bike', 'walk', 'truck']
+    synonyms:
+       walk : ['foot', 'feet', 'walking']
+    default: 'car'
+    memory: longterm
+
+  - name: distance
+    default: 10
+    memory: shortterm
+
+  - name: speedUnit
+    lookup: ['miles per hour', 'kilometers per hour', 'meters per second']
+    default: 'miles per hour'
+    memory: longterm
+
+
+dialogs:
+  - intent: navigation.startnavigation
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  - intent: navigation.startnavigationpoi
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  # Used for domain level fallback due to no dialog selection test.
+  - intent: navigation.stopnavigation
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  - intent: navigation.navigationavoidhighways
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  - intent: avoidhighways_cc
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.istollsonroute
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  - intent: navigation.getspeedlimitonroute
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.getdistance
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.getdistancepoi
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.getextrastoptime
+    action:
+      - intent: navigation.gettraveltimepoi
+
+
+  # Used to test historical NlpResp in FM reqJson
+  - intent: navigation.gettraveltime
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.gettraveltimepoi
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.geteta
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: geteta_cc
+    action:
+      - response:
+        - text: "The ETA to {location_cc} is 8:30 PM."
+
+
+  - intent: navigation.showdirection
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.showdirectionpoi
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.showdirectionavoidhighways
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.showmap
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.showmappoi
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.getrating
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.getnumber
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.isclosed
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.getlocation
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+
+  - intent: navigation.resettest
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  - intent: poi.store_memory
+    action:
+      - response:
+        - text: "Okay I will take you there!"
+
+  - intent: poi.check_memory
+    action:
+      - fulfillment: poi
+      - response:
+        - text: "Something went wrong while checking POI info in memory."
+
+
+fallback:
+  - action:
+      - response:
+        - text:
+          - "POI fallback 1."
+    followup:
+    - action:
+        - response:
+          - text:
+            - "POI fallback 2."
+      followup:
+      - action:
+        - response:
+          - text: "POI fallback 3."

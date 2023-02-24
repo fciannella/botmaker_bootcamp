@@ -1,0 +1,225 @@
+sentence	label
+enable navigation to santa clara convention centre	0
+navigate to google	0
+navigate to facebook	0
+can you navigate to london	0
+can you activate navigation to stanford	0
+please navigate me to 2788, san thomas express way, santa clara	0
+please switch on navigation to london by bike	0
+home	0
+google by walking	0
+facebook by walking	0
+turn on navigation mode	1
+start navigation by car	1
+can you please switch on navigation by foot	1
+can you navigate me to a chinese restaurant	1
+navigate to a japanese coffee shop by foot	1
+please start navigation by car to a spanish coffee shop	1
+can you drive me to the cheapest continental coffee shop	1
+take me to a police station located in santa clara	1
+to greek coffee shop	1
+to a hospital closeby	1
+can you take me to google and stop at a supermarket on the way	2
+please take me to 203, lincoln avenue with a detour to railway station	2
+please take me to 203, lincoln avenue with a detour to police station	2
+start navigating to 2788, san thomas express way, santa clara stop at walmart in between	2
+start navigating to 2788, san thomas express way, santa clara stop at starbucks in between	2
+activate navigation to london with a stop at domino's	2
+activate navigation to san jose with a stop at domino's	2
+stop at starbucks on the way	2
+take a detour	2
+make a stop in between	2
+nah, don't go there	3
+we'll visit later	3
+i'll visit some other time	3
+don't stop now	3
+never mind, i will check it out later	3
+don't go there now	3
+cancel all stops	3
+don't make any stop in between	3
+no i will visit later	3
+no don't stop now	3
+deactivate the current navigation	4
+switch off navigation	4
+turn off navigation to chicago	4
+stop navigation to new york	4
+can you quit navigation to new york	4
+turn off navigation to coffee shop	4
+disable navigation to hotel	4
+disable navigation to movie theatre	4
+deactivate navigation to hospital	4
+please disable navigation to supermarket	4
+avoid highways while navigating	5
+can you activate navigation without highways	5
+can you enable navigating and avoid highways	5
+start navigation by car while avoiding highways	5
+enable navigation mode by bike by avoiding highways	5
+drive me to santa clara convention centre by avoiding highways	5
+navigate by avoiding highways to stanford	5
+can you please avoid highways and navigate to san jose	5
+can you turn on navigation to intel museum while avoiding highways	5
+to london on foot	5
+where is the nearest toll on the way	6
+can you find me tolls on the road	6
+please show me tolls on route to intel museum	6
+can you display tolls on the way to stanford	6
+find me tolls on the road to 203, lincoln avenue	6
+is there any tolls on the route to san francisco from office	6
+is there any toll on the road from home to london	6
+list tolls on route from nvidia headquarters to 2788, san thomas express way, santa clara	6
+list tolls on route from intel museum to san francisco	6
+on the route to intel museum	6
+can you show me the speed limit	7
+find me the speed limit in meters per second	7
+what is the speed limit on the road to google	7
+what is the speed limit on the road to facebook	7
+tell me the speed limit on the way to work from intel museum	7
+what is the speed limit between santa clara convention centre and stanford in meters per second	7
+get me the speed limit to work from santa clara in meters per second	7
+can you show the speed limit from from nvidia headquarters to facebook in kilometers per hour	7
+to santa clara convention centre	7
+203, lincoln avenue in miles per hour	7
+what is the distance from work to san jose	8
+how much distance is it to nvidia santa clara office in miles	8
+find me the distance to intel museum from golden gate bridge	8
+show the distance to office in meters	8
+get me the distance to chicago from nvidia santa clara office in kilometers	8
+to office	8
+distance to nvidia headquarters in miles	8
+distance to intel museum	8
+to santa clara in kilometers	8
+distance to nvidia headquarters in miles	8
+how much is the distance	9
+what is the distance to starbucks in meters	9
+what is the distance to a indian coffee shop	9
+what is the distance to a indian restaurant	9
+how far is a good movie theatre	9
+tell me the distance to spanish coffee shop	9
+can you find me the distance to the cheap vietnamese restaurant	9
+to a good hotel	9
+to a good movie theatre	9
+to a expensive mediterranean coffee shop	9
+how much is the traveling time from home to san francisco	10
+how much is the traveling time from home to 2788, san thomas express way, santa clara	10
+how long does it take to reach google	10
+find me the time to reach 2788, san thomas express way, santa clara from nvidia santa clara office	10
+what is the travling time to stanford from 2788, san thomas express way, santa clara	10
+time to nvidia santa clara office	10
+time to reach new york	10
+time to reach work	10
+intel museum	10
+time to nvidia santa clara office	10
+what is the traveling time	11
+how far is the traveling time to a chinese coffee shop	11
+how long is the traveling time to a closeby starbucks nearby	11
+how much time is left to reach a expensive hotel closeby	11
+how long will it take by walking to reach hotel	11
+how long will it take by walking to reach movie theatre	11
+how much time it will take on foot to reach a hospital closeby	11
+can you please find me the time to reach the cheapest supermarket nearby	11
+to a closeby supermarket by bike	11
+nearby police station	11
+how much extra time will it take	12
+how much time will be added	12
+show me how much time will be added	12
+tell me how much time will be added to go to a movie theatre	12
+how much extra time will it take to stop at a hospital	12
+find the amount of time that will be added to make a stop at a police station	12
+how much extra time will it add to go to a domino's	12
+please find how much additional time will be taken to go to a hotel	12
+please tell me the amount of time added to commute to go to a kfc	12
+please tell me the amount of time added to commute to go to a walmart	12
+can you tell when i will reach	13
+what is the estimated arrival time by car	13
+what is the estimated arrival time to reach home	13
+what is the expected time to get from office to 203, lincoln avenue	13
+what is the expected time to get from santa clara to 203, lincoln avenue	13
+what time will i arrive at golden gate bridge from 2788, san thomas express way, santa clara by bike	13
+what time will i arrive at santa clara convention centre from 2788, san thomas express way, santa clara by bike	13
+what is the eta to reach stanford from intel museum	13
+nvidia headquarters	13
+to santa clara convention centre	13
+find me the path to office from chicago	14
+can you show me the directions to london by car	14
+can you show me the directions to san jose by car	14
+can you please find me the way to golden gate bridge from office by bike	14
+fetch me the route by foot from london to stanford	14
+can you show the directions to nvidia headquarters from chicago	14
+please find directions from google to office	14
+please find directions from facebook to santa clara	14
+work	14
+facebook by bike	14
+can you display the route	15
+can you display directions by car	15
+find the route to a good mexican restaurant nearby	15
+show the route to the cheapest hospital nearby	15
+show the path by walking to the closest hospital	15
+to italian coffee shop near new york	15
+to a walmart closeby	15
+indian restaurant	15
+to american restaurant	15
+to italian restaurant near new york	15
+get me the route by avoiding highways by bike	16
+please avoid highways and show the directions by foot	16
+find the route to san francisco by avoiding highways	16
+can you show route to santa clara convention centre from 203, lincoln avenue by avoiding highways	16
+can you get me directions to nvidia santa clara office from facebook and avoid highways	16
+can you please find me the way to golden gate bridge from santa clara by bike without highways	16
+can you please find me the way to santa clara convention centre from santa clara by bike without highways	16
+fetch me the route by foot from san francisco to stanford by avoiding highways	16
+fetch me the route by foot from london to nvidia santa clara office by avoiding highways	16
+facebook by bike	16
+where is work situated on the map	17
+locate google on the map	17
+show me mine location	17
+show me me location	17
+get mine coordinates on the map	17
+show my position	17
+what is my location	17
+where am i right now	17
+my location	17
+mine location	17
+can you find a japanese coffee shop on the map near santa clara convention centre	18
+get me the coordinates of a expensive coffee shop on the map	18
+locate a closeby good police station	18
+is there any expensive greek coffee shop within five kilometers	18
+find me the location of the nearest supermarket	18
+find the nearest movie theatre	18
+to kfc near 2788, san thomas express way, santa clara	18
+to european movie theatre near google	18
+a expensive hotel	18
+the cheapest hotel closeby	18
+can you order something from uber eats	19
+can you get me something from ulavacharu tiffins coffee shop	19
+i am craving for some cheese pazzo bread continental macdonald's	19
+can you order a egg, bacon and cheese sandwitch with extra sauce from a indian starbucks	19
+can you order a egg, bacon and cheese sandwitch with extra spice from a chinese walmart	19
+can you order a cheese bread with extra sauce from a indian kfc	19
+can you order a cheese bread with extra chilly from a chinese walmart	19
+i wanna food	19
+can you get me some food?	19
+what about a spicy tuna roll from restaurant	19
+check where my food is from doordash	20
+when will my cheesesteak reach me	20
+where is my chicken biriyani now	20
+where is my coffee now	20
+where is my cheese bread now	20
+where is my deep fried ice cream now	20
+where is my grilled chicken caesar salad now	20
+is my drink on route	20
+has my food been parceled	20
+when will it be delivered	20
+go ahead with order	21
+sure go ahead	21
+yes place that order quickly	21
+i am done place the order	21
+what are people ordering these days in home	22
+what is most popular drink of office	22
+which food is in most demand	22
+what are people ordering in this pandemic	22
+which drink are people taking delivery nowadays	22
+hey do you know what most people are ordering in work	22
+what is the most famous drink in new york	22
+what is the most famous drink in work	22
+what is popular food here	22
+what is popular drink here	22
