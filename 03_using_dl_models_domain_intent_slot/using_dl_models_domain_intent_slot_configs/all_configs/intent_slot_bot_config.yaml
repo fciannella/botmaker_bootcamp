@@ -1,0 +1,57 @@
+bot: intent_slot
+
+configs:
+    language: en-US
+    health_check_interval: 750
+
+nlp_models:
+  - name: semantic_similarity
+    model_name: "simcse-bert-base"
+    model_paths:
+      - ea-botmaker/qa/simcse-bert-base:1.0
+    confidence_threshold: 0.5
+    url: localhost:8001 # This port must be 8001 because this is on triton
+  - name: ner
+    model_name: riva_ner
+    model_paths:
+      - ea-botmaker/qa/rmir_ner_model_bot_maker:1.7.3-ea
+    url: localhost:50051
+    confidence_threshold: 0.86
+  - name: intent_slot
+    domain_name: "misty_hybrid"
+    model_paths:
+      - ea-botmaker/dev/misty_hybrid:1.1_rmir
+    url: localhost:50051
+    confidence_threshold: 0.5
+
+nlp_policies:
+  intent_classification:
+  - name: intent_slot
+
+  entity_recognition:
+  - name: intent_slot
+
+policies:
+  - name: custom_command_policy
+    paths:    # Custom command tsv file paths
+      - intent_slot_bot_custom_commands.tsv
+
+#  - name: nlu_data_match_policy
+#    models:
+#    - name: semantic_similarity
+#      model_name: simcse-bert-base
+#      confidence_threshold: 0.9
+#    - name: ner
+#      model_name: riva_ner
+#      confidence_threshold: 0.9
+#    paths:
+#      - nlu_data/weather
+#      - nlu_data/poi
+#      - nlu_data/smalltalk
+
+  - name: dialog_policy
+    paths:
+      - weather/domain_weather.yaml
+      - poi/domain_poi.yaml
+      - smalltalk/domain_smalltalk.yaml
+      - default.yaml
