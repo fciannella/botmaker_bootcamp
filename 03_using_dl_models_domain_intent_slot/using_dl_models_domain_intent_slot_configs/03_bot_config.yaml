@@ -31,16 +31,13 @@ nlp_policies:
 policies:
   - name: custom_command_policy
     paths:    # Custom command tsv file paths
-      - semantic_similarity_bot_custom_commands.tsv
+      - bot_custom_commands.tsv
 
   - name: nlu_data_match_policy
     models:
     - name: semantic_similarity
       model_name: simcse-bert-base
-      confidence_threshold: 0.9
-    - name: ner
-      model_name: riva_ner
-      confidence_threshold: 0.9
+      confidence_threshold: 0.6
     paths:
       - nlu_data/weather
       - nlu_data/poi

@@ -32,6 +32,18 @@ bash bot_maker_init.sh
 Finally you can run the bot in text mode to start with:
 
 ```shell
-bash run_bot_launcher.sh -c botmaker_bootcamp/semantic_similarity_bot/semantic_similarity_bot_configs  -m cli
+bash run_bot_launcher.sh -c botmaker_bootcamp/03_using_dl_models_domain_intent_slot/using_dl_models_domain_intent_slot_configs  -m cli
 ```
-The above command will look for a file which ends in `_bot_config.yaml` so make sure that that is how you name your botmaker configuration file. 
+The above command will look for a file which ends in `_bot_config.yaml` so make sure that that is how you name your botmaker configuration file.
+
+
+# Extra Configurations
+
+We have added some variations in the configurations so that we can experiment with different models. In the directory `extra_configs` you will find a config file called `intent_slot_bot_config.yaml`. You can copy that file one level up and onto the `bot_config.yaml` so that there is only one configuration file in the main directory.
+
+You can use this command from insice the `03_semantic_similarity_bot` directory:
+
+```shell
+cp using_dl_models_domain_intent_slot_configs/all_configs/intent_slot_bot_config.yaml using_dl_models_domain_intent_slot_configs/03_bot_config.yaml
+```
+

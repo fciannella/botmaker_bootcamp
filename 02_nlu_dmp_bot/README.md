@@ -28,7 +28,7 @@ bash bot_maker_init.sh
 Finally you can run the bot in text mode to start with:
 
 ```shell
-bash run_bot_launcher.sh -c botmaker_bootcamp/nlu_dmp_bot/nlu_dmp_bot_configs  -m cli
+bash run_bot_launcher.sh -c botmaker_bootcamp/02_nlu_dmp_bot/nlu_dmp_bot_configs  -m cli
 ```
 
 Here is a sample of the interaction that you can have with this primitive both:
@@ -103,17 +103,17 @@ up: I-bodyaction
 Let's look at a debugging session:
 
 ```shell
-fciannella@nvdl-a112-asus02:/mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea$ bash run_bot_launcher.sh -c botmaker_bootcamp/nlu_dmp_bot/nlu_dmp_bot_configs  -m cli -db --dm-log-level DEBUG
+fciannella@nvdl-a112-asus02:/mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea$ bash run_bot_launcher.sh -c botmaker_bootcamp/02_nlu_dmp_bot/nlu_dmp_bot_configs  -m cli -db --dm-log-level DEBUG
 Bot-Maker Version : 2.0.0-ea-x86_64
 ...
-2023-02-22 19:54:11,213 [INFO] Getting models for deployment from bot config /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/botmaker_bootcamp/nlu_dmp_bot/nlu_dmp_bot_configs/nlu_dmp_bot_config.yaml
+2023-02-22 19:54:11,213 [INFO] Getting models for deployment from bot config /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/botmaker_bootcamp/02_nlu_dmp_bot/nlu_dmp_bot_configs/nlu_dmp_bot_config.yaml
 2023-02-22 19:54:11,215 [INFO] Skipping Speech models for deployment
 ...
 Debug mode status true
 Starting Bot editor..
 Starting Dialog Manager..
-docker run --user 41975:30 -i -t --rm --net host --env OPENAPI_VALIDATION=false -v /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea:/mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea --name dialog-manager nvcr.io/ea-botmaker/release/dialog-manager:2.0.0-ea-x86_64 -m cli -to 120 -w 1 -c /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/botmaker_bootcamp/nlu_dmp_bot/nlu_dmp_bot_configs/nlu_dmp_bot_config.yaml -p 5000 --log_root /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/log -db --dm-log-level DEBUG
-Absolute path: /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/botmaker_bootcamp/nlu_dmp_bot/nlu_dmp_bot_configs/nlu_dmp_bot_config.yaml detected for config file.
+docker run --user 41975:30 -i -t --rm --net host --env OPENAPI_VALIDATION=false -v /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea:/mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea --name dialog-manager nvcr.io/ea-botmaker/release/dialog-manager:2.0.0-ea-x86_64 -m cli -to 120 -w 1 -c /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/botmaker_bootcamp/02_nlu_dmp_bot/nlu_dmp_bot_configs/nlu_dmp_bot_config.yaml -p 5000 --log_root /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/log -db --dm-log-level DEBUG
+Absolute path: /mnt/nvdl/usr/fciannella/src/botmaker_ea2/bot_maker_quickstart_v2.0.0-ea/botmaker_bootcamp/02_nlu_dmp_bot/nlu_dmp_bot_configs/nlu_dmp_bot_config.yaml detected for config file.
 Starting Bot in cli mode..
 ...
 2023-02-22 19:54:12,641 main INFO Creating DM App instance

@@ -22,8 +22,10 @@ git clone ssh://git@gitlab-master.nvidia.com:12051/fciannella/botmaker_bootcamp.
 Finally you can run the bot in text mode to start with:
 
 ```shell
-bash run_bot_launcher.sh -c botmaker_bootcamp/hello_world_bot/nlu_data_match_policy_bot  -m cli
+bash run_bot_launcher.sh -c botmaker_bootcamp/01_hello_world_bot/nlu_data_match_policy_bot  -m cli
 ```
+
+Tha above command will look for the one file ending in `_bot_config.yaml`, inside the directory specified in the above command. So make sure that you name the main configuration file that way when you will build your own bot. 
 
 Here is a sample of the interaction that you can have with this primitive both:
 
